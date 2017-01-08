@@ -1,0 +1,4258 @@
+How	WRB
+far	RB
+is	VBZ
+it	PRP
+from	IN
+Denver	NNP
+to	TO
+Aspen	NNP
+?	.
+
+What	WP
+county	NN
+is	VBZ
+Modesto	NNP
+,	,
+California	NNP
+in	IN
+?	.
+
+Who	WP
+was	VBD
+Galileo	NNP
+?	.
+
+What	WP
+is	VBZ
+an	DT
+atom	NN
+?	.
+
+When	WRB
+did	VBD
+Hawaii	TO
+become	VB
+a	DT
+state	NN
+?	.
+
+How	WRB
+tall	PRP
+is	VBZ
+the	DT
+Sears	NNP
+Building	NNP
+?	.
+
+George	NNP
+Bush	NNP
+purchased	VBD
+a	DT
+small	JJ
+interest	NN
+in	IN
+which	WDT
+baseball	NN
+team	NN
+?	.
+
+What	WP
+is	VBZ
+Australia	NNP
+'s	POS
+national	JJ
+flower	NN
+?	.
+
+Why	WRB
+does	VBZ
+the	DT
+moon	NN
+turn	NN
+orange	NN
+?	.
+
+What	WP
+is	VBZ
+autism	NN
+?	.
+
+What	WP
+city	NN
+had	VBD
+a	DT
+world	NN
+fair	NN
+in	IN
+1900	CD
+?	.
+
+What	WP
+person	NN
+'s	POS
+head	NN
+is	VBZ
+on	IN
+a	DT
+dime	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+average	JJ
+weight	NN
+of	IN
+a	DT
+Yellow	NNP
+Labrador	NNP
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+man	NN
+to	TO
+fly	VB
+across	IN
+the	DT
+Pacific	NNP
+Ocean	NNP
+?	.
+
+When	WRB
+did	VBD
+Idaho	TO
+become	VB
+a	DT
+state	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+life	NN
+expectancy	NN
+for	IN
+crickets	NN
+?	.
+
+What	WP
+metal	NN
+has	VBZ
+the	DT
+highest	JJS
+melting	NN
+point	NN
+?	.
+
+Who	WP
+developed	VBD
+the	DT
+vaccination	NN
+against	IN
+polio	NN
+?	.
+
+What	WP
+is	VBZ
+epilepsy	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+Titanic	JJ
+sink	NN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+American	JJ
+to	TO
+walk	VB
+in	IN
+space	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+biosphere	NN
+?	.
+
+What	WP
+river	NN
+in	IN
+the	DT
+US	NNP
+is	VBZ
+known	VBN
+as	IN
+the	DT
+Big	NNP
+Muddy	NNP
+?	.
+
+What	WP
+is	VBZ
+bipolar	JJ
+disorder	NN
+?	.
+
+What	WP
+is	VBZ
+cholesterol	NN
+?	.
+
+Who	WP
+developed	VBD
+the	DT
+Macintosh	NNP
+computer	NN
+?	.
+
+What	WP
+is	VBZ
+caffeine	VBN
+?	.
+
+What	WP
+imaginary	JJ
+line	NN
+is	VBZ
+halfway	VBN
+between	IN
+the	DT
+North	NNP
+and	CC
+South	NNP
+Poles	NNPS
+?	.
+
+Where	WRB
+is	VBZ
+John	NNP
+Wayne	NNP
+airport	NN
+?	.
+
+What	WP
+hemisphere	PRP
+is	VBZ
+the	DT
+Philippines	NNPS
+in	IN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+average	JJ
+speed	NN
+of	IN
+the	DT
+horses	NNS
+at	IN
+the	DT
+Kentucky	NNP
+Derby	NNP
+?	.
+
+Where	WRB
+are	VBP
+the	DT
+Rocky	NNP
+Mountains	NNPS
+?	.
+
+What	WP
+are	VBP
+invertebrates	JJ
+?	.
+
+What	WP
+is	VBZ
+the	DT
+temperature	NN
+at	IN
+the	DT
+center	NN
+of	IN
+the	DT
+earth	NN
+?	.
+
+When	WRB
+did	VBD
+John	NNP
+F.	NNP
+Kennedy	NNP
+get	VBP
+elected	VBN
+as	IN
+President	NNP
+?	.
+
+How	WRB
+old	JJ
+was	VBD
+Elvis	NNP
+Presley	NNP
+when	WRB
+he	PRP
+died	VBD
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Orinoco	NNP
+River	NNP
+?	.
+
+How	WRB
+far	RB
+is	VBZ
+the	DT
+service	NN
+line	NN
+from	IN
+the	DT
+net	NN
+in	IN
+tennis	NN
+?	.
+
+How	WRB
+much	JJ
+fiber	NN
+should	MD
+you	PRP
+have	VBP
+per	IN
+day	NN
+?	.
+
+How	WRB
+many	JJ
+Great	NNP
+Lakes	NNP
+are	VBP
+there	RB
+?	.
+
+Material	NNP
+called	VBD
+linen	NN
+is	VBZ
+made	VBN
+from	IN
+what	WP
+plant	NN
+?	.
+
+What	WP
+is	VBZ
+Teflon	NNP
+?	.
+
+What	WP
+is	VBZ
+amitriptyline	VBN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+shaman	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+proper	JJ
+name	NN
+for	IN
+a	DT
+female	JJ
+walrus	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+group	NN
+of	IN
+turkeys	NNS
+called	VBD
+?	.
+
+How	WRB
+long	RB
+did	VBD
+Rip	NNP
+Van	NNP
+Winkle	NNP
+sleep	NN
+?	.
+
+What	WP
+are	VBP
+triglycerides	VBN
+?	.
+
+How	WRB
+many	JJ
+liters	NN
+in	IN
+a	DT
+gallon	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+chocolate	NN
+company	NN
+in	IN
+San	NNP
+Francisco	NNP
+?	.
+
+What	WP
+are	VBP
+amphibians	VBN
+?	.
+
+Who	WP
+discovered	VBD
+x-rays	VBN
+?	.
+
+Which	DT
+comedian	NN
+'s	POS
+signature	NN
+line	NN
+is	VBZ
+``	``
+Can	MD
+we	PRP
+talk	VB
+''	''
+?	.
+
+What	WP
+is	VBZ
+fibromyalgia	VBN
+?	.
+
+What	WP
+is	VBZ
+done	VBN
+with	IN
+worn	JJ
+or	CC
+outdated	JJ
+flags	NNS
+?	.
+
+What	WP
+does	VBZ
+cc	VBN
+in	IN
+engines	NNS
+mean	VBP
+?	.
+
+When	WRB
+did	VBD
+Elvis	NNP
+Presley	NNP
+die	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+capital	NN
+of	IN
+Yugoslavia	NNP
+?	.
+
+Where	WRB
+is	VBZ
+Milan	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+speed	NN
+hummingbirds	NNS
+fly	VBP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+oldest	JJS
+city	NN
+in	IN
+the	DT
+United	NNP
+States	NNPS
+?	.
+
+What	WP
+was	VBD
+W.C.	NNP
+Fields	NNP
+'	POS
+real	JJ
+name	NN
+?	.
+
+What	WP
+river	NN
+flows	NNS
+between	IN
+Fargo	NNP
+,	,
+North	NNP
+Dakota	NNP
+and	CC
+Moorhead	NNP
+,	,
+Minnesota	NNP
+?	.
+
+What	WP
+do	VBP
+bats	TO
+eat	VB
+?	.
+
+What	WP
+state	NN
+did	VBD
+the	DT
+Battle	NN
+of	IN
+Bighorn	NNP
+take	VB
+place	NN
+in	IN
+?	.
+
+Who	WP
+was	VBD
+Abraham	NNP
+Lincoln	NNP
+?	.
+
+What	WP
+do	VBP
+you	PRP
+call	VBP
+a	DT
+newborn	JJ
+kangaroo	NN
+?	.
+
+What	WP
+are	VBP
+spider	JJ
+veins	NN
+?	.
+
+What	WP
+day	NN
+and	CC
+month	NN
+did	VBD
+John	NNP
+Lennon	NNP
+die	NN
+?	.
+
+What	WP
+strait	VBP
+separates	VBG
+North	NNP
+America	NNP
+from	IN
+Asia	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+population	NN
+of	IN
+Seattle	NNP
+?	.
+
+How	WRB
+much	RB
+was	VBD
+a	DT
+ticket	NN
+for	IN
+the	DT
+Titanic	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+largest	JJS
+city	NN
+in	IN
+the	DT
+world	NN
+?	.
+
+What	WP
+American	JJ
+composer	NN
+wrote	VBD
+the	DT
+music	NN
+for	IN
+``	``
+West	JJ
+Side	NN
+Story	.
+''	''
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Mall	NN
+of	IN
+the	DT
+America	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+pH	JJ
+scale	NN
+?	.
+
+What	WP
+type	NN
+of	IN
+currency	NN
+is	VBZ
+used	VBN
+in	IN
+Australia	NNP
+?	.
+
+How	WRB
+tall	PRP
+is	VBZ
+the	DT
+Gateway	NNP
+Arch	NNP
+in	IN
+St.	NNP
+Louis	NNP
+,	,
+MO	NNP
+?	.
+
+How	WRB
+much	RB
+does	VBZ
+the	DT
+human	JJ
+adult	NN
+female	JJ
+brain	NN
+weigh	VBP
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+governor	NN
+of	IN
+Alaska	NNP
+?	.
+
+What	WP
+is	VBZ
+a	DT
+prism	NN
+?	.
+
+When	WRB
+was	VBD
+the	DT
+first	JJ
+liver	NN
+transplant	NN
+?	.
+
+Who	WP
+was	VBD
+elected	VBN
+president	NN
+of	IN
+South	NNP
+Africa	NNP
+in	IN
+1994	CD
+?	.
+
+What	WP
+is	VBZ
+the	DT
+population	NN
+of	IN
+China	NNP
+?	.
+
+When	WRB
+was	VBD
+Rosa	NNP
+Parks	NNPS
+born	VBN
+?	.
+
+Why	WRB
+is	VBZ
+a	DT
+ladybug	JJ
+helpful	JJ
+?	.
+
+What	WP
+is	VBZ
+amoxicillin	VBN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+female	JJ
+United	NNP
+States	NNPS
+Representative	NNP
+?	.
+
+What	WP
+are	VBP
+xerophytes	VBN
+?	.
+
+What	WP
+country	NN
+did	VBD
+Ponce	NNP
+de	NNP
+Leon	NNP
+come	VBD
+from	IN
+?	.
+
+The	DT
+U.S.	NNP
+Department	NNP
+of	IN
+Treasury	NNP
+first	RB
+issued	VBN
+paper	NN
+currency	NN
+for	IN
+the	DT
+U.S.	NNP
+during	IN
+which	WDT
+war	NN
+?	.
+
+What	WP
+is	VBZ
+desktop	JJ
+publishing	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+temperature	NN
+of	IN
+the	DT
+sun	NN
+'s	POS
+surface	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+Canada	NNP
+join	VB
+the	DT
+United	NNP
+Nations	NNPS
+?	.
+
+What	WP
+is	VBZ
+the	DT
+oldest	JJS
+university	NN
+in	IN
+the	DT
+US	NNP
+?	.
+
+Where	WRB
+is	VBZ
+Prince	NNP
+Edward	NNP
+Island	NNP
+?	.
+
+Mercury	NNP
+,	,
+what	WP
+year	NN
+was	VBD
+it	PRP
+discovered	VBD
+?	.
+
+What	WP
+is	VBZ
+cryogenics	NN
+?	.
+
+What	WP
+are	VBP
+coral	JJ
+reefs	NNS
+?	.
+
+What	WP
+is	VBZ
+the	DT
+longest	JJS
+major	JJ
+league	NN
+baseball-winning	NN
+streak	NN
+?	.
+
+What	WP
+is	VBZ
+neurology	VBN
+?	.
+
+Who	WP
+invented	VBD
+the	DT
+calculator	NN
+?	.
+
+How	WRB
+do	VBP
+you	PRP
+measure	VB
+earthquakes	NNS
+?	.
+
+Who	WP
+is	VBZ
+Duke	NNP
+Ellington	NNP
+?	.
+
+What	WP
+county	NN
+is	VBZ
+Phoenix	NNP
+,	,
+AZ	NNP
+in	IN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+micron	NN
+?	.
+
+The	DT
+sun	NN
+'s	POS
+core	NN
+,	,
+what	WP
+is	VBZ
+the	DT
+temperature	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+Ohio	NNP
+state	NN
+bird	NN
+?	.
+
+When	WRB
+were	VBD
+William	NNP
+Shakespeare	NNP
+'s	POS
+twins	NN
+born	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+highest	JJS
+dam	NN
+in	IN
+the	DT
+U.S.	NNP
+?	.
+
+What	WP
+color	NN
+is	VBZ
+a	DT
+poison	NN
+arrow	NN
+frog	NNS
+?	.
+
+What	WP
+is	VBZ
+acupuncture	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+length	NN
+of	IN
+the	DT
+coastline	NN
+of	IN
+the	DT
+state	NN
+of	IN
+Alaska	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+Neil	NNP
+Armstrong	NNP
+'s	POS
+wife	NN
+?	.
+
+What	WP
+is	VBZ
+Hawaii	NNP
+'s	POS
+state	NN
+flower	NN
+?	.
+
+Who	WP
+won	VBD
+Ms.	NNP
+American	NNP
+in	IN
+1989	CD
+?	.
+
+When	WRB
+did	VBD
+the	DT
+Hindenberg	JJ
+crash	NN
+?	.
+
+What	WP
+mineral	NN
+helps	VBZ
+prevent	VB
+osteoporosis	NNS
+?	.
+
+What	WP
+was	VBD
+the	DT
+last	JJ
+year	NN
+that	IN
+the	DT
+Chicago	NNP
+Cubs	NNP
+won	VBD
+the	DT
+World	NNP
+Series	NNP
+?	.
+
+Where	WRB
+is	VBZ
+Perth	NNP
+?	.
+
+What	WP
+year	NN
+did	VBD
+WWII	RB
+begin	VB
+?	.
+
+What	WP
+is	VBZ
+the	DT
+diameter	NN
+of	IN
+a	DT
+golf	NN
+ball	NN
+?	.
+
+What	WP
+is	VBZ
+an	DT
+eclipse	NN
+?	.
+
+Who	WP
+discovered	VBD
+America	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+earth	NN
+'s	POS
+diameter	NN
+?	.
+
+Which	DT
+president	NN
+was	VBD
+unmarried	JJ
+?	.
+
+How	WRB
+wide	JJ
+is	VBZ
+the	DT
+Milky	NNP
+Way	NNP
+galaxy	NN
+?	.
+
+During	IN
+which	WDT
+season	NN
+do	VBP
+most	RBS
+thunderstorms	RB
+occur	VB
+?	.
+
+What	WP
+is	VBZ
+Wimbledon	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+gestation	NN
+period	NN
+for	IN
+a	DT
+cat	NN
+?	.
+
+How	WRB
+far	RB
+is	VBZ
+a	DT
+nautical	JJ
+mile	NN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+abolitionist	NN
+who	WP
+led	VBD
+the	DT
+raid	NN
+on	IN
+Harper	NNP
+'s	POS
+Ferry	NN
+in	IN
+1859	CD
+?	.
+
+What	WP
+does	VBZ
+target	NN
+heart	NN
+rate	NN
+mean	NN
+?	.
+
+What	WP
+was	VBD
+the	DT
+first	JJ
+satellite	NN
+to	TO
+go	VB
+into	IN
+space	NN
+?	.
+
+What	WP
+is	VBZ
+foreclosure	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+major	JJ
+fault	NN
+line	NN
+near	IN
+Kentucky	NNP
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Holland	NNP
+Tunnel	NNP
+?	.
+
+Who	WP
+wrote	VBD
+the	DT
+hymn	NN
+``	``
+Amazing	JJ
+Grace	NN
+''	''
+?	.
+
+What	WP
+position	NN
+did	VBD
+Willie	NNP
+Davis	NNP
+play	NN
+in	IN
+baseball	NN
+?	.
+
+What	WP
+are	VBP
+platelets	VBN
+?	.
+
+What	WP
+is	VBZ
+severance	JJ
+pay	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+Roy	NNP
+Roger	NNP
+'s	POS
+dog	NN
+?	.
+
+Where	WRB
+are	VBP
+the	DT
+National	NNP
+Archives	NNPS
+?	.
+
+What	WP
+is	VBZ
+a	DT
+baby	NN
+turkey	NN
+called	VBD
+?	.
+
+What	WP
+is	VBZ
+poliomyelitis	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+longest	JJS
+bone	NN
+in	IN
+the	DT
+human	JJ
+body	NN
+?	.
+
+Who	WP
+is	VBZ
+a	DT
+German	JJ
+philosopher	NN
+?	.
+
+What	WP
+were	VBD
+Christopher	NNP
+Columbus	NNP
+'	POS
+three	CD
+ships	NNS
+?	.
+
+What	WP
+does	VBZ
+Phi	JJ
+Beta	NN
+Kappa	NNS
+mean	VBP
+?	.
+
+What	WP
+is	VBZ
+nicotine	VBN
+?	.
+
+What	WP
+is	VBZ
+another	DT
+name	NN
+for	IN
+vitamin	JJ
+B1	NN
+?	.
+
+Who	WP
+discovered	VBD
+radium	VBN
+?	.
+
+What	WP
+are	VBP
+sunspots	VBN
+?	.
+
+When	WRB
+was	VBD
+Algeria	NNP
+colonized	NN
+?	.
+
+What	WP
+baseball	NN
+team	NN
+was	VBD
+the	DT
+first	JJ
+to	TO
+make	VB
+numbers	NNS
+part	NN
+of	IN
+their	PRP$
+uniform	NN
+?	.
+
+What	WP
+continent	PRP
+is	VBZ
+Egypt	VBN
+on	RP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+capital	NN
+of	IN
+Mongolia	NNP
+?	.
+
+What	WP
+is	VBZ
+nanotechnology	VBN
+?	.
+
+In	IN
+the	DT
+late	JJ
+1700	CD
+'s	POS
+British	JJ
+convicts	NNS
+were	VBD
+used	VBN
+to	TO
+populate	VB
+which	WDT
+colony	NN
+?	.
+
+What	WP
+state	NN
+is	VBZ
+the	DT
+geographic	JJ
+center	NN
+of	IN
+the	DT
+lower	JJR
+48	CD
+states	NNS
+?	.
+
+What	WP
+is	VBZ
+an	DT
+obtuse	JJ
+angle	NN
+?	.
+
+What	WP
+are	VBP
+polymers	NNS
+?	.
+
+When	WRB
+is	VBZ
+hurricane	NN
+season	NN
+in	IN
+the	DT
+Caribbean	NNP
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+volcano	NN
+Mauna	NNP
+Loa	NNP
+?	.
+
+What	WP
+is	VBZ
+another	DT
+astronomic	JJ
+term	NN
+for	IN
+the	DT
+Northern	JJ
+Lights	NNS
+?	.
+
+What	WP
+peninsula	PRP
+is	VBZ
+Spain	NNP
+part	NN
+of	IN
+?	.
+
+When	WRB
+was	VBD
+Lyndon	NNP
+B.	NNP
+Johnson	NNP
+born	VBN
+?	.
+
+What	WP
+is	VBZ
+acetaminophen	VBN
+?	.
+
+What	WP
+state	NN
+has	VBZ
+the	DT
+least	JJS
+amount	NN
+of	IN
+rain	NN
+per	IN
+year	NN
+?	.
+
+Who	WP
+founded	VBD
+American	NNP
+Red	NNP
+Cross	NNP
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+Milwaukee	NNP
+Braves	NNPS
+become	VBP
+the	DT
+Atlanta	NNP
+Braves	NNPS
+?	.
+
+How	WRB
+fast	RB
+is	VBZ
+alcohol	NN
+absorbed	VBN
+?	.
+
+When	WRB
+is	VBZ
+the	DT
+summer	NN
+solstice	NNS
+?	.
+
+What	WP
+is	VBZ
+supernova	VBN
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Shawnee	NNP
+National	NNP
+Forest	NNP
+?	.
+
+What	WP
+U.S.	NNP
+state	NN
+'s	POS
+motto	NN
+is	VBZ
+``	``
+Live	JJ
+free	JJ
+or	CC
+Die	VB
+''	''
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Lourve	NNP
+?	.
+
+When	WRB
+was	VBD
+the	DT
+first	JJ
+stamp	NN
+issued	VBD
+?	.
+
+What	WP
+primary	JJ
+colors	NNS
+do	VBP
+you	PRP
+mix	VB
+to	TO
+make	VB
+orange	NN
+?	.
+
+How	WRB
+far	RB
+is	VBZ
+Pluto	VBN
+from	IN
+the	DT
+sun	NN
+?	.
+
+What	WP
+body	NN
+of	IN
+water	NN
+are	VBP
+the	DT
+Canary	NNP
+Islands	NNP
+in	IN
+?	.
+
+What	WP
+is	VBZ
+neuropathy	VBN
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Euphrates	NNP
+River	NNP
+?	.
+
+What	WP
+is	VBZ
+cryptography	VBN
+?	.
+
+What	WP
+is	VBZ
+natural	JJ
+gas	NN
+composed	VBN
+of	IN
+?	.
+
+Who	WP
+is	VBZ
+the	DT
+Prime	NNP
+Minister	NNP
+of	IN
+Canada	NNP
+?	.
+
+What	WP
+French	JJ
+ruler	NN
+was	VBD
+defeated	VBN
+at	IN
+the	DT
+battle	NN
+of	IN
+Waterloo	NNP
+?	.
+
+What	WP
+is	VBZ
+leukemia	NN
+?	.
+
+Where	WRB
+did	VBD
+Howard	NNP
+Hughes	NNP
+die	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+birthstone	NN
+for	IN
+June	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+sales	NNS
+tax	NN
+in	IN
+Minnesota	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+distance	NN
+in	IN
+miles	NNS
+from	IN
+the	DT
+earth	NN
+to	TO
+the	DT
+sun	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+average	JJ
+life	NN
+span	NN
+for	IN
+a	DT
+chicken	NN
+?	.
+
+When	WRB
+was	VBD
+the	DT
+first	JJ
+Wal-Mart	NN
+store	NN
+opened	VBD
+?	.
+
+What	WP
+is	VBZ
+relative	JJ
+humidity	NN
+?	.
+
+What	WP
+city	NN
+has	VBZ
+the	DT
+zip	NN
+code	NN
+of	IN
+35824	CD
+?	.
+
+What	WP
+currency	NN
+is	VBZ
+used	VBN
+in	IN
+Algeria	NNP
+?	.
+
+Who	WP
+invented	VBD
+the	DT
+hula	JJ
+hoop	NN
+?	.
+
+What	WP
+was	VBD
+the	DT
+most	RBS
+popular	JJ
+toy	NN
+in	IN
+1957	CD
+?	.
+
+What	WP
+is	VBZ
+pastrami	VBN
+made	VBN
+of	IN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+satellite	NN
+that	IN
+the	DT
+Soviet	NNP
+Union	NNP
+sent	VBD
+into	IN
+space	NN
+in	IN
+1957	CD
+?	.
+
+What	WP
+city	NN
+'s	POS
+newspaper	NN
+is	VBZ
+called	VBN
+``	``
+The	DT
+Enquirer	NNP
+''	''
+?	.
+
+Who	WP
+invented	VBD
+the	DT
+slinky	JJ
+?	.
+
+What	WP
+are	VBP
+the	DT
+animals	NNS
+that	IN
+don	DT
+'t	NNS
+have	VBP
+backbones	VBN
+called	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+melting	NN
+point	NN
+of	IN
+copper	NN
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+volcano	NN
+Olympus	NNP
+Mons	NNP
+located	VBN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+23rd	JJ
+president	NN
+of	IN
+the	DT
+United	NNP
+States	NNPS
+?	.
+
+What	WP
+is	VBZ
+the	DT
+average	JJ
+body	NN
+temperature	NN
+?	.
+
+What	WP
+does	VBZ
+a	DT
+defibrillator	NNS
+do	VBP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+effect	NN
+of	IN
+acid	NN
+rain	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+United	NNP
+States	NNPS
+abolish	VB
+the	DT
+draft	NN
+?	.
+
+How	WRB
+fast	RB
+is	VBZ
+the	DT
+speed	NN
+of	IN
+light	NN
+?	.
+
+What	WP
+province	NN
+is	VBZ
+Montreal	NNP
+in	IN
+?	.
+
+What	WP
+New	NNP
+York	NNP
+City	NNP
+structure	NN
+is	VBZ
+also	RB
+known	VBN
+as	IN
+the	DT
+Twin	NNP
+Towers	NNP
+?	.
+
+What	WP
+is	VBZ
+fungus	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+most	RBS
+frequently	RB
+spoken	VBN
+language	NN
+in	IN
+the	DT
+Netherlands	NNP
+?	.
+
+What	WP
+is	VBZ
+sodium	DT
+chloride	NN
+?	.
+
+What	WP
+are	VBP
+the	DT
+spots	NNS
+on	IN
+dominoes	NNS
+called	VBD
+?	.
+
+How	WRB
+many	JJ
+pounds	NNS
+in	IN
+a	DT
+ton	NN
+?	.
+
+What	WP
+is	VBZ
+influenza	JJ
+?	.
+
+What	WP
+is	VBZ
+ozone	NN
+depletion	NN
+?	.
+
+What	WP
+year	NN
+was	VBD
+the	DT
+Mona	NNP
+Lisa	NNP
+painted	VBD
+?	.
+
+What	WP
+does	VBZ
+``	``
+Sitting	VBG
+Shiva	NNP
+''	''
+mean	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+electrical	JJ
+output	NN
+in	IN
+Madrid	NNP
+,	,
+Spain	NNP
+?	.
+
+Which	DT
+mountain	NN
+range	NN
+in	IN
+North	NNP
+America	NNP
+stretches	VBZ
+from	IN
+Maine	NNP
+to	TO
+Georgia	NNP
+?	.
+
+What	WP
+is	VBZ
+plastic	NN
+made	VBN
+of	IN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+population	NN
+of	IN
+Nigeria	NNP
+?	.
+
+What	WP
+does	VBZ
+your	PRP$
+spleen	NNS
+do	VBP
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Grand	NNP
+Canyon	NNP
+?	.
+
+Who	WP
+invented	VBD
+the	DT
+telephone	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+U.S.	NNP
+buy	VB
+Alaska	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+the	DT
+leader	NN
+of	IN
+Ireland	NNP
+?	.
+
+What	WP
+is	VBZ
+phenylalanine	VBN
+?	.
+
+How	WRB
+many	JJ
+gallons	NNS
+of	IN
+water	NN
+are	VBP
+there	RB
+in	IN
+a	DT
+cubic	JJ
+foot	NN
+?	.
+
+What	WP
+are	VBP
+the	DT
+two	CD
+houses	NNS
+of	IN
+the	DT
+Legislative	JJ
+branch	NN
+?	.
+
+What	WP
+is	VBZ
+sonar	NN
+?	.
+
+In	IN
+Poland	NNP
+,	,
+where	WRB
+do	VBP
+most	JJS
+people	NNS
+live	VBP
+?	.
+
+What	WP
+is	VBZ
+phosphorus	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+location	NN
+of	IN
+the	DT
+Sea	NNP
+of	IN
+Tranquility	NNP
+?	.
+
+How	WRB
+fast	RB
+is	VBZ
+sound	NN
+?	.
+
+What	WP
+French	JJ
+province	NN
+is	VBZ
+cognac	VBN
+produced	VBN
+in	IN
+?	.
+
+What	WP
+is	VBZ
+Valentine	NNP
+'s	POS
+Day	NN
+?	.
+
+What	WP
+causes	VBZ
+gray	JJ
+hair	NN
+?	.
+
+What	WP
+is	VBZ
+hypertension	NN
+?	.
+
+What	WP
+is	VBZ
+bandwidth	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+longest	JJS
+suspension	NN
+bridge	NN
+in	IN
+the	DT
+U.S.	NNP
+?	.
+
+What	WP
+is	VBZ
+a	DT
+parasite	NN
+?	.
+
+What	WP
+is	VBZ
+home	NN
+equity	NN
+?	.
+
+What	WP
+do	VBP
+meteorologists	NNS
+do	VBP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+criterion	NN
+for	IN
+being	VBG
+legally	RB
+blind	JJ
+?	.
+
+Who	WP
+is	VBZ
+the	DT
+tallest	JJS
+man	NN
+in	IN
+the	DT
+world	NN
+?	.
+
+What	WP
+are	VBP
+the	DT
+twin	JJ
+cities	NNS
+?	.
+
+What	WP
+did	VBD
+Edward	NNP
+Binney	NNP
+and	CC
+Howard	NNP
+Smith	NNP
+invent	VBP
+in	IN
+1903	CD
+?	.
+
+What	WP
+is	VBZ
+the	DT
+statue	NN
+of	IN
+liberty	NN
+made	VBN
+of	IN
+?	.
+
+What	WP
+is	VBZ
+pilates	VBN
+?	.
+
+What	WP
+planet	NN
+is	VBZ
+known	VBN
+as	IN
+the	DT
+``	``
+red	JJ
+''	''
+planet	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+depth	NN
+of	IN
+the	DT
+Nile	JJ
+river	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+colorful	JJ
+Korean	JJ
+traditional	JJ
+dress	NN
+called	VBD
+?	.
+
+What	WP
+is	VBZ
+Mardi	NNP
+Gras	NNP
+?	.
+
+Mexican	JJ
+pesos	NNS
+are	VBP
+worth	JJ
+what	WP
+in	IN
+U.S.	NNP
+dollars	NNS
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+African	JJ
+American	JJ
+to	TO
+play	VB
+for	IN
+the	DT
+Brooklyn	NNP
+Dodgers	NNPS
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+Prime	NNP
+Minister	NNP
+of	IN
+Canada	NNP
+?	.
+
+How	WRB
+many	JJ
+Admirals	NNS
+are	VBP
+there	RB
+in	IN
+the	DT
+U.S.	NNP
+Navy	NNP
+?	.
+
+What	WP
+instrument	NN
+did	VBD
+Glenn	NNP
+Miller	NNP
+play	NN
+?	.
+
+How	WRB
+old	JJ
+was	VBD
+Joan	NNP
+of	IN
+Arc	NNP
+when	WRB
+she	PRP
+died	VBD
+?	.
+
+What	WP
+does	VBZ
+the	DT
+word	NN
+fortnight	NNS
+mean	VBP
+?	.
+
+What	WP
+is	VBZ
+dianetics	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+capital	NN
+of	IN
+Ethiopia	NNP
+?	.
+
+For	IN
+how	WRB
+long	RB
+is	VBZ
+an	DT
+elephant	NN
+pregnant	JJ
+?	.
+
+How	WRB
+did	VBD
+Janice	NNP
+Joplin	NNP
+die	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+primary	JJ
+language	NN
+in	IN
+Iceland	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+difference	NN
+between	IN
+AM	NNP
+radio	NN
+stations	NNS
+and	CC
+FM	JJ
+radio	NN
+stations	NNS
+?	.
+
+What	WP
+is	VBZ
+osteoporosis	VBN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+woman	NN
+governor	NN
+in	IN
+the	DT
+U.S.	NNP
+?	.
+
+What	WP
+is	VBZ
+peyote	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+esophagus	NN
+used	VBN
+for	IN
+?	.
+
+What	WP
+is	VBZ
+viscosity	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+Oklahoma	TO
+become	VB
+a	DT
+state	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+abbreviation	NN
+for	IN
+Texas	NNP
+?	.
+
+What	WP
+is	VBZ
+a	DT
+mirror	NN
+made	VBD
+out	RP
+of	IN
+?	.
+
+Where	WRB
+on	IN
+the	DT
+body	NN
+is	VBZ
+a	DT
+mortarboard	JJ
+worn	NN
+?	.
+
+What	WP
+was	VBD
+J.F.K.	NNP
+'s	POS
+wife	NN
+'s	POS
+name	NN
+?	.
+
+What	WP
+does	VBZ
+I.V.	JJ
+stand	NN
+for	IN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+chunnel	NN
+?	.
+
+Where	WRB
+is	VBZ
+Hitler	RB
+buried	VBN
+?	.
+
+What	WP
+are	VBP
+antacids	VBN
+?	.
+
+What	WP
+is	VBZ
+pulmonary	JJ
+fibrosis	NN
+?	.
+
+What	WP
+are	VBP
+Quaaludes	NNP
+?	.
+
+What	WP
+is	VBZ
+naproxen	VBN
+?	.
+
+What	WP
+is	VBZ
+strep	JJ
+throat	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+largest	JJS
+city	NN
+in	IN
+the	DT
+U.S.	NNP
+?	.
+
+What	WP
+is	VBZ
+foot	NN
+and	CC
+mouth	NN
+disease	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+life	NN
+expectancy	NN
+of	IN
+a	DT
+dollar	NN
+bill	NN
+?	.
+
+What	WP
+do	VBP
+you	PRP
+call	VBP
+a	DT
+professional	JJ
+map	NN
+drawer	NNS
+?	.
+
+What	WP
+are	VBP
+Aborigines	NNP
+?	.
+
+What	WP
+is	VBZ
+hybridization	NN
+?	.
+
+What	WP
+color	NN
+is	VBZ
+indigo	JJ
+?	.
+
+How	WRB
+old	JJ
+do	VBP
+you	PRP
+have	VBP
+to	TO
+be	VB
+in	IN
+order	NN
+to	TO
+rent	VB
+a	DT
+car	NN
+in	IN
+Italy	NNP
+?	.
+
+What	WP
+does	VBZ
+a	DT
+barometer	NN
+measure	NN
+?	.
+
+What	WP
+color	NN
+is	VBZ
+a	DT
+giraffe	NN
+'s	POS
+tongue	NN
+?	.
+
+What	WP
+does	VBZ
+USPS	JJ
+stand	NN
+for	IN
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+NFL	NNP
+go	VBP
+on	IN
+strike	NN
+?	.
+
+What	WP
+is	VBZ
+solar	JJ
+wind	NN
+?	.
+
+What	WP
+date	NN
+did	VBD
+Neil	NNP
+Armstrong	NNP
+land	NN
+on	IN
+the	DT
+moon	NN
+?	.
+
+When	WRB
+was	VBD
+Hiroshima	NNP
+bombed	NNP
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Savannah	NNP
+River	NNP
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+woman	NN
+killed	VBN
+in	IN
+the	DT
+Vietnam	NNP
+War	NNP
+?	.
+
+What	WP
+planet	NN
+has	VBZ
+the	DT
+strongest	JJS
+magnetic	JJ
+field	NN
+of	IN
+all	PDT
+the	DT
+planets	NNS
+?	.
+
+Who	WP
+is	VBZ
+the	DT
+governor	NN
+of	IN
+Alaska	NNP
+?	.
+
+What	WP
+year	NN
+did	VBD
+Mussolini	TO
+seize	VB
+power	NN
+in	IN
+Italy	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+capital	NN
+of	IN
+Persia	NNP
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Eiffel	NNP
+Tower	NNP
+?	.
+
+How	WRB
+many	JJ
+hearts	NNS
+does	VBZ
+an	DT
+octopus	NNS
+have	VBP
+?	.
+
+What	WP
+is	VBZ
+pneumonia	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+deepest	JJS
+lake	NN
+in	IN
+the	DT
+US	NNP
+?	.
+
+What	WP
+is	VBZ
+a	DT
+fuel	NN
+cell	NN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+U.S.	NNP
+president	NN
+to	TO
+appear	VB
+on	IN
+TV	NN
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Little	NNP
+League	NNP
+Museum	NNP
+?	.
+
+What	WP
+are	VBP
+the	DT
+two	CD
+types	NNS
+of	IN
+twins	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+brightest	JJS
+star	NN
+?	.
+
+What	WP
+is	VBZ
+diabetes	NN
+?	.
+
+When	WRB
+was	VBD
+President	NNP
+Kennedy	NNP
+shot	NN
+?	.
+
+What	WP
+is	VBZ
+TMJ	NNP
+?	.
+
+What	WP
+color	NN
+is	VBZ
+yak	JJ
+milk	NN
+?	.
+
+What	WP
+date	NN
+was	VBD
+Dwight	NNP
+D.	NNP
+Eisenhower	VBD
+born	VBN
+?	.
+
+What	WP
+does	VBZ
+the	DT
+technical	JJ
+term	NN
+ISDN	NNS
+mean	VBP
+?	.
+
+Why	WRB
+is	VBZ
+the	DT
+sun	NN
+yellow	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+conversion	NN
+rate	NN
+between	IN
+dollars	NNS
+and	CC
+pounds	NNS
+?	.
+
+When	WRB
+was	VBD
+Abraham	NNP
+Lincoln	NNP
+born	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+Milky	NNP
+Way	NNP
+?	.
+
+What	WP
+is	VBZ
+mold	NN
+?	.
+
+What	WP
+year	NN
+was	VBD
+Mozart	RB
+born	VBN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+group	NN
+of	IN
+frogs	NNS
+called	VBD
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+of	IN
+William	NNP
+Penn	NNP
+'s	POS
+ship	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+melting	NN
+point	NN
+of	IN
+gold	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+street	NN
+address	NN
+of	IN
+the	DT
+White	NNP
+House	NNP
+?	.
+
+What	WP
+is	VBZ
+semolina	VBN
+?	.
+
+What	WP
+fruit	NN
+is	VBZ
+Melba	NNP
+sauce	VBD
+made	VBN
+from	IN
+?	.
+
+What	WP
+is	VBZ
+Ursa	NNP
+Major	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+percentage	NN
+of	IN
+water	NN
+content	NN
+in	IN
+the	DT
+human	JJ
+body	NN
+?	.
+
+How	WRB
+much	RB
+does	VBZ
+water	NN
+weigh	VBP
+?	.
+
+What	WP
+was	VBD
+President	NNP
+Lyndon	NNP
+Johnson	NNP
+'s	POS
+reform	NN
+program	NN
+called	VBD
+?	.
+
+What	WP
+is	VBZ
+the	DT
+murder	NN
+rate	NN
+in	IN
+Windsor	NNP
+,	,
+Ontario	NNP
+?	.
+
+Who	WP
+is	VBZ
+the	DT
+only	JJ
+president	NN
+to	TO
+serve	VB
+2	CD
+non-consecutive	JJ
+terms	NNS
+?	.
+
+What	WP
+is	VBZ
+the	DT
+population	NN
+of	IN
+Australia	NNP
+?	.
+
+Who	WP
+painted	VBD
+the	DT
+ceiling	NN
+of	IN
+the	DT
+Sistine	NNP
+Chapel	NNP
+?	.
+
+Name	IN
+a	DT
+stimulant	NN
+.	.
+
+What	WP
+is	VBZ
+the	DT
+effect	NN
+of	IN
+volcanoes	NN
+on	IN
+the	DT
+climate	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+Andy	NNP
+Griffith	NNPS
+show	VBP
+begin	VB
+?	.
+
+What	WP
+is	VBZ
+acid	NN
+rain	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+date	NN
+of	IN
+Mexico	NNP
+'s	POS
+independence	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+location	NN
+of	IN
+Lake	NNP
+Champlain	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+Illinois	NNP
+state	NN
+flower	NN
+?	.
+
+What	WP
+is	VBZ
+Maryland	NNP
+'s	POS
+state	NN
+bird	NN
+?	.
+
+What	WP
+is	VBZ
+quicksilver	VBN
+?	.
+
+Who	WP
+wrote	VBD
+``	``
+The	DT
+Divine	NNP
+Comedy	.
+''	''
+?	.
+
+What	WP
+is	VBZ
+the	DT
+speed	NN
+of	IN
+light	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+width	NN
+of	IN
+a	DT
+football	NN
+field	NN
+?	.
+
+Why	WRB
+in	IN
+tennis	NN
+are	VBP
+zero	CD
+points	NNS
+called	VBD
+love	NN
+?	.
+
+What	WP
+kind	NN
+of	IN
+dog	NN
+was	VBD
+Toto	NNP
+in	IN
+the	DT
+Wizard	NN
+of	IN
+Oz	NNP
+?	.
+
+What	WP
+is	VBZ
+a	DT
+thyroid	NN
+?	.
+
+What	WP
+does	VBZ
+ciao	RB
+mean	VB
+?	.
+
+What	WP
+is	VBZ
+the	DT
+only	JJ
+artery	NN
+that	WDT
+carries	VBZ
+blue	JJ
+blood	NN
+from	IN
+the	DT
+heart	NN
+to	TO
+the	DT
+lungs	NNS
+?	.
+
+How	WRB
+often	RB
+does	VBZ
+Old	NNP
+Faithful	NNP
+erupt	VB
+at	IN
+Yellowstone	NNP
+National	NNP
+Park	NNP
+?	.
+
+What	WP
+is	VBZ
+acetic	JJ
+acid	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+elevation	NN
+of	IN
+St.	NNP
+Louis	NNP
+,	,
+MO	NNP
+?	.
+
+What	WP
+color	NN
+does	VBZ
+litmus	DT
+paper	NN
+turn	NN
+when	WRB
+it	PRP
+comes	VBZ
+into	IN
+contact	NN
+with	IN
+a	DT
+strong	JJ
+acid	NN
+?	.
+
+What	WP
+are	VBP
+the	DT
+colors	NNS
+of	IN
+the	DT
+German	JJ
+flag	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+Moulin	NNP
+Rouge	NNP
+?	.
+
+What	WP
+soviet	JJ
+seaport	NN
+is	VBZ
+on	IN
+the	DT
+Black	NNP
+Sea	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+atomic	JJ
+weight	NN
+of	IN
+silver	NN
+?	.
+
+What	WP
+currency	NN
+do	VBP
+they	PRP
+use	VBP
+in	IN
+Brazil	NNP
+?	.
+
+What	WP
+are	VBP
+pathogens	VBN
+?	.
+
+What	WP
+is	VBZ
+mad	JJ
+cow	JJ
+disease	NN
+?	.
+
+Name	IN
+a	DT
+food	NN
+high	NN
+in	IN
+zinc	NN
+.	.
+
+When	WRB
+did	VBD
+North	NNP
+Carolina	NNP
+enter	VBP
+the	DT
+union	NN
+?	.
+
+Where	WRB
+do	VBP
+apple	NN
+snails	NNS
+live	VBP
+?	.
+
+What	WP
+are	VBP
+ethics	NNS
+?	.
+
+What	WP
+does	VBZ
+CPR	JJ
+stand	NN
+for	IN
+?	.
+
+What	WP
+is	VBZ
+an	DT
+annuity	NN
+?	.
+
+Who	WP
+killed	VBD
+John	NNP
+F.	NNP
+Kennedy	NNP
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+vice	NN
+president	NN
+of	IN
+the	DT
+U.S.	NNP
+?	.
+
+What	WP
+birthstone	RB
+is	VBZ
+turquoise	NN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+US	NNP
+President	NNP
+to	TO
+ride	VB
+in	IN
+an	DT
+automobile	NN
+to	TO
+his	PRP$
+inauguration	NN
+?	.
+
+How	WRB
+old	JJ
+was	VBD
+the	DT
+youngest	JJS
+president	NN
+of	IN
+the	DT
+United	NNP
+States	NNPS
+?	.
+
+When	WRB
+was	VBD
+Ulysses	NNP
+S.	NNP
+Grant	NNP
+born	VBN
+?	.
+
+What	WP
+is	VBZ
+Muscular	NNP
+Dystrophy	NNP
+?	.
+
+Who	WP
+lived	VBD
+in	IN
+the	DT
+Neuschwanstein	JJ
+castle	NN
+?	.
+
+What	WP
+is	VBZ
+propylene	DT
+glycol	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+panic	NN
+disorder	NN
+?	.
+
+Who	WP
+invented	VBD
+the	DT
+instant	JJ
+Polaroid	NNP
+camera	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+carcinogen	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+baby	NN
+lion	NN
+called	VBD
+?	.
+
+What	WP
+is	VBZ
+the	DT
+world	NN
+'s	POS
+population	NN
+?	.
+
+What	WP
+is	VBZ
+nepotism	NN
+?	.
+
+What	WP
+is	VBZ
+die-casting	VBN
+?	.
+
+What	WP
+is	VBZ
+myopia	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+sales	NNS
+tax	NN
+rate	NN
+in	IN
+New	NNP
+York	NNP
+?	.
+
+Developing	VBG
+nations	NNS
+comprise	VBP
+what	WP
+percentage	NN
+of	IN
+the	DT
+world	NN
+'s	POS
+population	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+fourth	JJ
+highest	JJS
+mountain	NN
+in	IN
+the	DT
+world	NN
+?	.
+
+What	WP
+is	VBZ
+Shakespeare	NNP
+'s	POS
+nickname	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+heaviest	JJS
+naturally	RB
+occurring	VBG
+element	NN
+?	.
+
+When	WRB
+is	VBZ
+Father	NNP
+'s	POS
+Day	NN
+?	.
+
+What	WP
+does	VBZ
+the	DT
+acronym	NNP
+NASA	NNP
+stand	NN
+for	IN
+?	.
+
+How	WRB
+long	RB
+is	VBZ
+the	DT
+Columbia	NNP
+River	NNP
+in	IN
+miles	NNS
+?	.
+
+What	WP
+city	NN
+'s	POS
+newspaper	NN
+is	VBZ
+called	VBN
+``	``
+The	DT
+Star	NNP
+''	''
+?	.
+
+What	WP
+is	VBZ
+carbon	NN
+dioxide	NN
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+Mason/Dixon	JJ
+line	NN
+?	.
+
+When	WRB
+was	VBD
+the	DT
+Boston	NNP
+tea	NN
+party	NN
+?	.
+
+What	WP
+is	VBZ
+metabolism	NN
+?	.
+
+Which	NNP
+U.S.A.	NNP
+president	NN
+appeared	VBD
+on	IN
+``	``
+Laugh-In	UH
+''	''
+?	.
+
+What	WP
+are	VBP
+cigarettes	NNS
+made	VBN
+of	IN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+capital	NN
+of	IN
+Zimbabwe	NNP
+?	.
+
+What	WP
+does	VBZ
+NASA	NNP
+stand	NN
+for	IN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+state	NN
+flower	NN
+of	IN
+Michigan	NNP
+?	.
+
+What	WP
+are	VBP
+semiconductors	NNS
+?	.
+
+What	WP
+is	VBZ
+nuclear	JJ
+power	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+tsunami	NN
+?	.
+
+Who	WP
+is	VBZ
+the	DT
+congressman	NN
+from	IN
+state	NN
+of	IN
+Texas	NNP
+on	IN
+the	DT
+armed	JJ
+forces	NNS
+committee	NN
+?	.
+
+Who	WP
+was	VBD
+president	NN
+in	IN
+1913	CD
+?	.
+
+When	WRB
+was	VBD
+the	DT
+first	JJ
+kidney	NN
+transplant	NN
+?	.
+
+What	WP
+are	VBP
+Canada	NNP
+'s	POS
+two	CD
+territories	NNS
+?	.
+
+What	WP
+was	VBD
+the	DT
+name	NN
+of	IN
+the	DT
+plane	NN
+Lindbergh	NNP
+flew	VBD
+solo	NN
+across	IN
+the	DT
+Atlantic	NNP
+?	.
+
+What	WP
+is	VBZ
+genocide	NN
+?	.
+
+What	WP
+continent	PRP
+is	VBZ
+Argentina	NNP
+on	IN
+?	.
+
+What	WP
+monastery	PRP
+was	VBD
+raided	VBN
+by	IN
+Vikings	NNPS
+in	IN
+the	DT
+late	JJ
+eighth	JJ
+century	NN
+?	.
+
+What	WP
+is	VBZ
+an	DT
+earthquake	NN
+?	.
+
+Where	WRB
+is	VBZ
+the	DT
+tallest	JJS
+roller	NN
+coaster	NN
+located	VBN
+?	.
+
+What	WP
+are	VBP
+enzymes	VBN
+?	.
+
+Who	WP
+discovered	VBD
+oxygen	NN
+?	.
+
+What	WP
+is	VBZ
+bangers	VBN
+and	CC
+mash	NNS
+?	.
+
+What	WP
+is	VBZ
+the	DT
+name	NN
+given	VBN
+to	TO
+the	DT
+Tiger	NNP
+at	IN
+Louisiana	NNP
+State	NNP
+University	NNP
+?	.
+
+Where	WRB
+are	VBP
+the	DT
+British	JJ
+crown	NN
+jewels	NNS
+kept	VBD
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+person	NN
+to	TO
+reach	VB
+the	DT
+North	NNP
+Pole	NNP
+?	.
+
+What	WP
+is	VBZ
+an	DT
+ulcer	NN
+?	.
+
+What	WP
+is	VBZ
+vertigo	VBN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+spirometer	JJ
+test	NN
+?	.
+
+When	WRB
+is	VBZ
+the	DT
+official	JJ
+first	JJ
+day	NN
+of	IN
+summer	NN
+?	.
+
+What	WP
+does	VBZ
+the	DT
+abbreviation	NN
+SOS	NNS
+mean	VBP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+smallest	JJS
+bird	NN
+in	IN
+Britain	NNP
+?	.
+
+Who	WP
+invented	VBD
+Trivial	NNP
+Pursuit	NNP
+?	.
+
+What	WP
+gasses	NNS
+are	VBP
+in	IN
+the	DT
+troposphere	NN
+?	.
+
+Which	DT
+country	NN
+has	VBZ
+the	DT
+most	JJS
+water	NN
+pollution	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+scientific	JJ
+name	NN
+for	IN
+elephant	NN
+?	.
+
+Who	WP
+is	VBZ
+the	DT
+actress	NN
+known	VBN
+for	IN
+her	PRP$
+role	NN
+in	IN
+the	DT
+movie	NN
+``	``
+Gypsy	UH
+''	''
+?	.
+
+What	WP
+breed	VBP
+of	IN
+hunting	NN
+dog	NN
+did	VBD
+the	DT
+Beverly	NNP
+Hillbillies	NNP
+own	JJ
+?	.
+
+What	WP
+is	VBZ
+the	DT
+rainiest	JJ
+place	NN
+on	IN
+Earth	NNP
+?	.
+
+Who	WP
+was	VBD
+the	DT
+first	JJ
+African	JJ
+American	JJ
+to	TO
+win	VB
+the	DT
+Nobel	NNP
+Prize	NNP
+in	IN
+literature	NN
+?	.
+
+When	WRB
+is	VBZ
+St.	NNP
+Patrick	NNP
+'s	POS
+Day	NN
+?	.
+
+What	WP
+was	VBD
+FDR	NNP
+'s	POS
+dog	NN
+'s	POS
+name	NN
+?	.
+
+What	WP
+colors	NNS
+need	VBP
+to	TO
+be	VB
+mixed	VBN
+to	TO
+get	VB
+the	DT
+color	NN
+pink	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+most	RBS
+popular	JJ
+sport	NN
+in	IN
+Japan	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+active	JJ
+ingredient	NN
+in	IN
+baking	JJ
+soda	NN
+?	.
+
+When	WRB
+was	VBD
+Thomas	NNP
+Jefferson	NNP
+born	VBN
+?	.
+
+How	WRB
+cold	PRP
+should	MD
+a	DT
+refrigerator	NN
+be	VB
+?	.
+
+When	WRB
+was	VBD
+the	DT
+telephone	NN
+invented	VBD
+?	.
+
+What	WP
+is	VBZ
+the	DT
+most	RBS
+common	JJ
+eye	NN
+color	NN
+?	.
+
+Where	WRB
+was	VBD
+the	DT
+first	JJ
+golf	NN
+course	NN
+in	IN
+the	DT
+United	NNP
+States	NNPS
+?	.
+
+What	WP
+is	VBZ
+schizophrenia	NN
+?	.
+
+What	WP
+is	VBZ
+angiotensin	VBN
+?	.
+
+What	WP
+did	VBD
+Jesse	NNP
+Jackson	NNP
+organize	NNP
+?	.
+
+What	WP
+is	VBZ
+New	NNP
+York	NNP
+'s	POS
+state	NN
+bird	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+National	NNP
+Park	NNP
+in	IN
+Utah	NNP
+?	.
+
+What	WP
+is	VBZ
+Susan	NNP
+B.	NNP
+Anthony	NNP
+'s	POS
+birthday	NN
+?	.
+
+In	IN
+which	WDT
+state	NN
+would	MD
+you	PRP
+find	VBP
+the	DT
+Catskill	NNP
+Mountains	NNPS
+?	.
+
+What	WP
+do	VBP
+you	PRP
+call	VBP
+a	DT
+word	NN
+that	WDT
+is	VBZ
+spelled	VBN
+the	DT
+same	JJ
+backwards	NN
+and	CC
+forwards	RB
+?	.
+
+What	WP
+are	VBP
+pediatricians	VBN
+?	.
+
+What	WP
+chain	NN
+store	NN
+is	VBZ
+headquartered	VBN
+in	IN
+Bentonville	NNP
+,	,
+Arkansas	NNP
+?	.
+
+What	WP
+are	VBP
+solar	JJ
+cells	NNS
+?	.
+
+What	WP
+is	VBZ
+compounded	VBN
+interest	NN
+?	.
+
+What	WP
+are	VBP
+capers	VBN
+?	.
+
+What	WP
+is	VBZ
+an	DT
+antigen	NN
+?	.
+
+What	WP
+currency	NN
+does	VBZ
+Luxembourg	NNP
+use	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+population	NN
+of	IN
+Venezuela	NNP
+?	.
+
+What	WP
+type	NN
+of	IN
+polymer	NN
+is	VBZ
+used	VBN
+for	IN
+bulletproof	JJ
+vests	NNS
+?	.
+
+What	WP
+currency	NN
+does	VBZ
+Argentina	NNP
+use	NN
+?	.
+
+What	WP
+is	VBZ
+a	DT
+thermometer	NN
+?	.
+
+What	WP
+Canadian	JJ
+city	NN
+has	VBZ
+the	DT
+largest	JJS
+population	NN
+?	.
+
+What	WP
+color	PRP
+are	VBP
+crickets	VBN
+?	.
+
+Which	DT
+country	NN
+gave	VBD
+New	NNP
+York	NNP
+the	DT
+Statue	NN
+of	IN
+Liberty	NNP
+?	.
+
+What	WP
+was	VBD
+the	DT
+name	NN
+of	IN
+the	DT
+first	JJ
+U.S.	NNP
+satellite	NN
+sent	VBD
+into	IN
+space	NN
+?	.
+
+What	WP
+precious	JJ
+stone	NN
+is	VBZ
+a	DT
+form	NN
+of	IN
+pure	JJ
+carbon	NN
+?	.
+
+What	WP
+kind	NN
+of	IN
+gas	NN
+is	VBZ
+in	IN
+a	DT
+fluorescent	JJ
+bulb	NN
+?	.
+
+What	WP
+is	VBZ
+rheumatoid	JJ
+arthritis	NN
+?	.
+
+What	WP
+river	NN
+runs	VBZ
+through	IN
+Rowe	NNP
+,	,
+Italy	NNP
+?	.
+
+What	WP
+is	VBZ
+cerebral	JJ
+palsy	NN
+?	.
+
+What	WP
+city	NN
+is	VBZ
+also	RB
+known	VBN
+as	IN
+``	``
+The	DT
+Gateway	NN
+to	TO
+the	DT
+West	JJ
+''	''
+?	.
+
+How	WRB
+far	RB
+away	RB
+is	VBZ
+the	DT
+moon	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+source	NN
+of	IN
+natural	JJ
+gas	NN
+?	.
+
+In	IN
+what	WP
+spacecraft	NN
+did	VBD
+U.S.	NNP
+astronaut	VBD
+Alan	NNP
+Shepard	NNP
+make	VB
+his	PRP$
+historic	JJ
+1961	CD
+flight	NN
+?	.
+
+What	WP
+is	VBZ
+pectin	VBN
+?	.
+
+What	WP
+is	VBZ
+bio-diversity	NN
+?	.
+
+What	WP
+'s	VBZ
+the	DT
+easiest	JJS
+way	NN
+to	TO
+remove	VB
+wallpaper	NN
+?	.
+
+What	WP
+year	NN
+did	VBD
+the	DT
+Titanic	JJ
+start	NN
+on	IN
+its	PRP$
+journey	NN
+?	.
+
+How	WRB
+much	RB
+of	IN
+an	DT
+apple	NN
+is	VBZ
+water	NN
+?	.
+
+Who	WP
+was	VBD
+the	DT
+22nd	JJ
+President	NNP
+of	IN
+the	DT
+US	NNP
+?	.
+
+What	WP
+is	VBZ
+the	DT
+money	NN
+they	PRP
+use	VBP
+in	IN
+Zambia	NNP
+?	.
+
+How	WRB
+many	JJ
+feet	NNS
+in	IN
+a	DT
+mile	NN
+?	.
+
+What	WP
+is	VBZ
+the	DT
+birthstone	NN
+of	IN
+October	NNP
+?	.
+
+What	WP
+is	VBZ
+e-coli	VBN
+?	.
+

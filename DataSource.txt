@@ -1,0 +1,3 @@
+1. Tagged Wikipedia data: http://nlp.cs.nyu.edu/sekine/data/wikipedia-tagged2_1.txt.gz; We have informed Prof. Satoshi Sekine as was mentioned on the website
+
+2. Untagged Wikipedia latest dump

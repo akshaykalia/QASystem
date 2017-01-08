@@ -1,0 +1,4258 @@
+How	WRB	B-NP
+far	RB	O
+is	VBZ	O
+it	PRP	B-NP
+from	IN	O
+Denver	NNP	B-NP
+to	TO	O
+Aspen	NNP	O
+?	.	O
+	
+What	WP	B-NP
+county	NN	I-NP
+is	VBZ	O
+Modesto	NNP	O
+,	,	O
+California	NNP	B-NP
+in	IN	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+Galileo	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+atom	NN	O
+?	.	O
+	
+When	WRB	B-NP
+did	VBD	O
+Hawaii	TO	B-NP
+become	VB	O
+a	DT	B-NP
+state	NN	I-NP
+?	.	O
+	
+How	WRB	B-NP
+tall	PRP	I-NP
+is	VBZ	O
+the	DT	B-NP
+Sears	NNP	B-NP
+Building	NNP	I-NP
+?	.	O
+	
+George	NNP	B-NP
+Bush	NNP	I-NP
+purchased	VBD	O
+a	DT	B-NP
+small	JJ	B-NP
+interest	NN	B-NP
+in	IN	O
+which	WDT	B-NP
+baseball	NN	B-NP
+team	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Australia	NNP	B-NP
+'s	POS	B-NP
+national	JJ	B-NP
+flower	NN	B-NP
+?	.	O
+	
+Why	WRB	B-NP
+does	VBZ	O
+the	DT	B-NP
+moon	NN	O
+turn	NN	B-NP
+orange	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+autism	NN	O
+?	.	O
+	
+What	WP	B-NP
+city	NN	I-NP
+had	VBD	O
+a	DT	B-NP
+world	NN	O
+fair	NN	O
+in	IN	O
+1900	CD	B-NP
+?	.	O
+	
+What	WP	B-NP
+person	NN	I-NP
+'s	POS	B-NP
+head	NN	B-NP
+is	VBZ	O
+on	IN	O
+a	DT	B-NP
+dime	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+average	JJ	I-NP
+weight	NN	I-NP
+of	IN	O
+a	DT	B-NP
+Yellow	NNP	I-NP
+Labrador	NNP	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+man	NN	I-NP
+to	TO	O
+fly	VB	O
+across	IN	O
+the	DT	B-NP
+Pacific	NNP	I-NP
+Ocean	NNP	I-NP
+?	.	O
+	
+When	WRB	B-NP
+did	VBD	O
+Idaho	TO	B-NP
+become	VB	O
+a	DT	B-NP
+state	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+life	NN	B-NP
+expectancy	NN	O
+for	IN	O
+crickets	NN	O
+?	.	O
+	
+What	WP	B-NP
+metal	NN	B-NP
+has	VBZ	O
+the	DT	B-NP
+highest	JJS	I-NP
+melting	NN	O
+point	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+developed	VBD	O
+the	DT	B-NP
+vaccination	NN	O
+against	IN	O
+polio	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+epilepsy	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+Titanic	JJ	O
+sink	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+American	JJ	B-NP
+to	TO	O
+walk	VB	O
+in	IN	O
+space	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+biosphere	NN	O
+?	.	O
+	
+What	WP	B-NP
+river	NN	B-NP
+in	IN	O
+the	DT	B-NP
+US	NNP	B-NP
+is	VBZ	O
+known	VBN	O
+as	IN	O
+the	DT	B-NP
+Big	NNP	B-NP
+Muddy	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+bipolar	JJ	O
+disorder	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+cholesterol	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+developed	VBD	O
+the	DT	B-NP
+Macintosh	NNP	I-NP
+computer	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+caffeine	VBN	O
+?	.	O
+	
+What	WP	B-NP
+imaginary	JJ	O
+line	NN	I-NP
+is	VBZ	O
+halfway	VBN	O
+between	IN	B-NP
+the	DT	B-NP
+North	NNP	B-NP
+and	CC	O
+South	NNP	B-NP
+Poles	NNPS	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+John	NNP	O
+Wayne	NNP	B-NP
+airport	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+hemisphere	PRP	O
+is	VBZ	O
+the	DT	B-NP
+Philippines	NNPS	I-NP
+in	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+average	JJ	I-NP
+speed	NN	B-NP
+of	IN	O
+the	DT	B-NP
+horses	NNS	I-NP
+at	IN	O
+the	DT	B-NP
+Kentucky	NNP	B-NP
+Derby	NNP	O
+?	.	O
+	
+Where	WRB	B-NP
+are	VBP	O
+the	DT	B-NP
+Rocky	NNP	B-NP
+Mountains	NNPS	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+invertebrates	JJ	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+temperature	NN	B-NP
+at	IN	O
+the	DT	B-NP
+center	NN	I-NP
+of	IN	O
+the	DT	B-NP
+earth	NN	B-NP
+?	.	O
+	
+When	WRB	B-NP
+did	VBD	O
+John	NNP	O
+F.	NNP	I-NP
+Kennedy	NNP	I-NP
+get	VBP	O
+elected	VBN	I-NP
+as	IN	O
+President	NNP	B-NP
+?	.	O
+	
+How	WRB	B-NP
+old	JJ	O
+was	VBD	O
+Elvis	NNP	O
+Presley	NNP	O
+when	WRB	O
+he	PRP	B-NP
+died	VBD	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Orinoco	NNP	O
+River	NNP	I-NP
+?	.	O
+	
+How	WRB	B-NP
+far	RB	O
+is	VBZ	O
+the	DT	B-NP
+service	NN	I-NP
+line	NN	I-NP
+from	IN	O
+the	DT	B-NP
+net	NN	B-NP
+in	IN	O
+tennis	NN	I-NP
+?	.	O
+	
+How	WRB	B-NP
+much	JJ	I-NP
+fiber	NN	I-NP
+should	MD	O
+you	PRP	B-NP
+have	VBP	O
+per	IN	O
+day	NN	I-NP
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+Great	NNP	B-NP
+Lakes	NNP	I-NP
+are	VBP	O
+there	RB	B-NP
+?	.	O
+	
+Material	NNP	B-NP
+called	VBD	O
+linen	NN	B-NP
+is	VBZ	O
+made	VBN	O
+from	IN	O
+what	WP	I-NP
+plant	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Teflon	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+amitriptyline	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+shaman	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+proper	JJ	B-NP
+name	NN	I-NP
+for	IN	O
+a	DT	B-NP
+female	JJ	I-NP
+walrus	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+group	NN	I-NP
+of	IN	O
+turkeys	NNS	O
+called	VBD	O
+?	.	O
+	
+How	WRB	B-NP
+long	RB	I-NP
+did	VBD	O
+Rip	NNP	O
+Van	NNP	I-NP
+Winkle	NNP	O
+sleep	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+triglycerides	VBN	O
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+liters	NN	O
+in	IN	O
+a	DT	B-NP
+gallon	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+the	DT	B-NP
+chocolate	NN	B-NP
+company	NN	I-NP
+in	IN	O
+San	NNP	B-NP
+Francisco	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+amphibians	VBN	O
+?	.	O
+	
+Who	WP	B-NP
+discovered	VBD	O
+x-rays	VBN	O
+?	.	O
+	
+Which	DT	B-NP
+comedian	NN	B-NP
+'s	POS	B-NP
+signature	NN	I-NP
+line	NN	I-NP
+is	VBZ	O
+``	``	O
+Can	MD	I-NP
+we	PRP	B-NP
+talk	VB	B-NP
+''	''	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+fibromyalgia	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+done	VBN	O
+with	IN	O
+worn	JJ	O
+or	CC	I-NP
+outdated	JJ	B-NP
+flags	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+cc	VBN	O
+in	IN	O
+engines	NNS	B-NP
+mean	VBP	O
+?	.	O
+	
+When	WRB	B-NP
+did	VBD	O
+Elvis	NNP	O
+Presley	NNP	O
+die	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+capital	NN	I-NP
+of	IN	O
+Yugoslavia	NNP	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+Milan	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+speed	NN	B-NP
+hummingbirds	NNS	O
+fly	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+oldest	JJS	O
+city	NN	I-NP
+in	IN	O
+the	DT	B-NP
+United	NNP	B-NP
+States	NNPS	I-NP
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+W.C.	NNP	O
+Fields	NNP	I-NP
+'	POS	B-NP
+real	JJ	I-NP
+name	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+river	NN	B-NP
+flows	NNS	I-NP
+between	IN	B-NP
+Fargo	NNP	I-NP
+,	,	O
+North	NNP	B-NP
+Dakota	NNP	I-NP
+and	CC	O
+Moorhead	NNP	O
+,	,	O
+Minnesota	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+do	VBP	O
+bats	TO	O
+eat	VB	O
+?	.	O
+	
+What	WP	B-NP
+state	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+Battle	NN	B-NP
+of	IN	O
+Bighorn	NNP	O
+take	VB	O
+place	NN	B-NP
+in	IN	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+Abraham	NNP	B-NP
+Lincoln	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+do	VBP	O
+you	PRP	B-NP
+call	VBP	I-NP
+a	DT	B-NP
+newborn	JJ	O
+kangaroo	NN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+spider	JJ	O
+veins	NN	O
+?	.	O
+	
+What	WP	B-NP
+day	NN	I-NP
+and	CC	O
+month	NN	I-NP
+did	VBD	O
+John	NNP	O
+Lennon	NNP	O
+die	NN	O
+?	.	O
+	
+What	WP	B-NP
+strait	VBP	O
+separates	VBG	O
+North	NNP	B-NP
+America	NNP	B-NP
+from	IN	O
+Asia	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+population	NN	I-NP
+of	IN	O
+Seattle	NNP	B-NP
+?	.	O
+	
+How	WRB	B-NP
+much	RB	I-NP
+was	VBD	O
+a	DT	B-NP
+ticket	NN	I-NP
+for	IN	O
+the	DT	B-NP
+Titanic	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+largest	JJS	O
+city	NN	I-NP
+in	IN	O
+the	DT	B-NP
+world	NN	O
+?	.	O
+	
+What	WP	B-NP
+American	JJ	B-NP
+composer	NN	I-NP
+wrote	VBD	O
+the	DT	B-NP
+music	NN	I-NP
+for	IN	O
+``	``	O
+West	JJ	B-NP
+Side	NN	O
+Story	.	I-NP
+''	''	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Mall	NN	O
+of	IN	O
+the	DT	B-NP
+America	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+pH	JJ	O
+scale	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+type	NN	I-NP
+of	IN	O
+currency	NN	I-NP
+is	VBZ	O
+used	VBN	O
+in	IN	O
+Australia	NNP	B-NP
+?	.	O
+	
+How	WRB	B-NP
+tall	PRP	I-NP
+is	VBZ	O
+the	DT	B-NP
+Gateway	NNP	O
+Arch	NNP	O
+in	IN	O
+St.	NNP	I-NP
+Louis	NNP	I-NP
+,	,	O
+MO	NNP	O
+?	.	O
+	
+How	WRB	B-NP
+much	RB	I-NP
+does	VBZ	O
+the	DT	B-NP
+human	JJ	B-NP
+adult	NN	B-NP
+female	JJ	I-NP
+brain	NN	I-NP
+weigh	VBP	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+governor	NN	B-NP
+of	IN	O
+Alaska	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+prism	NN	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+liver	NN	O
+transplant	NN	B-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+elected	VBN	I-NP
+president	NN	B-NP
+of	IN	O
+South	NNP	B-NP
+Africa	NNP	I-NP
+in	IN	O
+1994	CD	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+population	NN	I-NP
+of	IN	O
+China	NNP	B-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Rosa	NNP	I-NP
+Parks	NNPS	I-NP
+born	VBN	O
+?	.	O
+	
+Why	WRB	B-NP
+is	VBZ	O
+a	DT	B-NP
+ladybug	JJ	O
+helpful	JJ	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+amoxicillin	VBN	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+female	JJ	I-NP
+United	NNP	B-NP
+States	NNPS	I-NP
+Representative	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+xerophytes	VBN	O
+?	.	O
+	
+What	WP	B-NP
+country	NN	I-NP
+did	VBD	O
+Ponce	NNP	B-NP
+de	NNP	I-NP
+Leon	NNP	I-NP
+come	VBD	O
+from	IN	O
+?	.	O
+	
+The	DT	B-NP
+U.S.	NNP	O
+Department	NNP	O
+of	IN	O
+Treasury	NNP	B-NP
+first	RB	I-NP
+issued	VBN	O
+paper	NN	I-NP
+currency	NN	I-NP
+for	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+during	IN	O
+which	WDT	B-NP
+war	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+desktop	JJ	B-NP
+publishing	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+temperature	NN	B-NP
+of	IN	O
+the	DT	B-NP
+sun	NN	I-NP
+'s	POS	B-NP
+surface	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+Canada	NNP	B-NP
+join	VB	O
+the	DT	B-NP
+United	NNP	B-NP
+Nations	NNPS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+oldest	JJS	O
+university	NN	I-NP
+in	IN	O
+the	DT	B-NP
+US	NNP	B-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+Prince	NNP	B-NP
+Edward	NNP	I-NP
+Island	NNP	I-NP
+?	.	O
+	
+Mercury	NNP	B-NP
+,	,	O
+what	WP	I-NP
+year	NN	I-NP
+was	VBD	O
+it	PRP	B-NP
+discovered	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+cryogenics	NN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+coral	JJ	O
+reefs	NNS	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+longest	JJS	O
+major	JJ	B-NP
+league	NN	O
+baseball-winning	NN	O
+streak	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+neurology	VBN	O
+?	.	O
+	
+Who	WP	B-NP
+invented	VBD	O
+the	DT	B-NP
+calculator	NN	I-NP
+?	.	O
+	
+How	WRB	B-NP
+do	VBP	O
+you	PRP	B-NP
+measure	VB	I-NP
+earthquakes	NNS	B-NP
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+Duke	NNP	I-NP
+Ellington	NNP	O
+?	.	O
+	
+What	WP	B-NP
+county	NN	I-NP
+is	VBZ	O
+Phoenix	NNP	B-NP
+,	,	O
+AZ	NNP	O
+in	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+micron	NN	O
+?	.	O
+	
+The	DT	B-NP
+sun	NN	I-NP
+'s	POS	B-NP
+core	NN	O
+,	,	O
+what	WP	I-NP
+is	VBZ	O
+the	DT	B-NP
+temperature	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+Ohio	NNP	I-NP
+state	NN	I-NP
+bird	NN	I-NP
+?	.	O
+	
+When	WRB	B-NP
+were	VBD	O
+William	NNP	B-NP
+Shakespeare	NNP	B-NP
+'s	POS	B-NP
+twins	NN	O
+born	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+highest	JJS	I-NP
+dam	NN	I-NP
+in	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+?	.	O
+	
+What	WP	B-NP
+color	NN	B-NP
+is	VBZ	O
+a	DT	B-NP
+poison	NN	B-NP
+arrow	NN	O
+frog	NNS	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+acupuncture	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+length	NN	I-NP
+of	IN	O
+the	DT	B-NP
+coastline	NN	O
+of	IN	O
+the	DT	B-NP
+state	NN	I-NP
+of	IN	O
+Alaska	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+Neil	NNP	I-NP
+Armstrong	NNP	B-NP
+'s	POS	B-NP
+wife	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Hawaii	NNP	B-NP
+'s	POS	B-NP
+state	NN	I-NP
+flower	NN	B-NP
+?	.	O
+	
+Who	WP	B-NP
+won	VBD	O
+Ms.	NNP	B-NP
+American	NNP	B-NP
+in	IN	O
+1989	CD	I-NP
+?	.	O
+	
+When	WRB	B-NP
+did	VBD	O
+the	DT	B-NP
+Hindenberg	JJ	O
+crash	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+mineral	NN	B-NP
+helps	VBZ	O
+prevent	VB	O
+osteoporosis	NNS	O
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+last	JJ	B-NP
+year	NN	I-NP
+that	IN	B-NP
+the	DT	B-NP
+Chicago	NNP	B-NP
+Cubs	NNP	I-NP
+won	VBD	O
+the	DT	B-NP
+World	NNP	I-NP
+Series	NNP	B-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+Perth	NNP	O
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+WWII	RB	O
+begin	VB	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+diameter	NN	O
+of	IN	O
+a	DT	B-NP
+golf	NN	I-NP
+ball	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+eclipse	NN	O
+?	.	O
+	
+Who	WP	B-NP
+discovered	VBD	O
+America	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+earth	NN	B-NP
+'s	POS	B-NP
+diameter	NN	O
+?	.	O
+	
+Which	DT	B-NP
+president	NN	B-NP
+was	VBD	O
+unmarried	JJ	O
+?	.	O
+	
+How	WRB	B-NP
+wide	JJ	I-NP
+is	VBZ	O
+the	DT	B-NP
+Milky	NNP	O
+Way	NNP	O
+galaxy	NN	O
+?	.	O
+	
+During	IN	B-NP
+which	WDT	B-NP
+season	NN	I-NP
+do	VBP	O
+most	RBS	B-NP
+thunderstorms	RB	O
+occur	VB	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Wimbledon	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+gestation	NN	O
+period	NN	I-NP
+for	IN	O
+a	DT	B-NP
+cat	NN	O
+?	.	O
+	
+How	WRB	B-NP
+far	RB	O
+is	VBZ	O
+a	DT	B-NP
+nautical	JJ	O
+mile	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+abolitionist	NN	O
+who	WP	B-NP
+led	VBD	O
+the	DT	B-NP
+raid	NN	I-NP
+on	IN	O
+Harper	NNP	I-NP
+'s	POS	B-NP
+Ferry	NN	O
+in	IN	O
+1859	CD	O
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+target	NN	I-NP
+heart	NN	B-NP
+rate	NN	I-NP
+mean	NN	O
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+satellite	NN	I-NP
+to	TO	O
+go	VB	I-NP
+into	IN	O
+space	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+foreclosure	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+major	JJ	B-NP
+fault	NN	B-NP
+line	NN	I-NP
+near	IN	O
+Kentucky	NNP	B-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Holland	NNP	I-NP
+Tunnel	NNP	O
+?	.	O
+	
+Who	WP	B-NP
+wrote	VBD	O
+the	DT	B-NP
+hymn	NN	O
+``	``	O
+Amazing	JJ	O
+Grace	NN	B-NP
+''	''	O
+?	.	O
+	
+What	WP	B-NP
+position	NN	I-NP
+did	VBD	O
+Willie	NNP	B-NP
+Davis	NNP	I-NP
+play	NN	O
+in	IN	O
+baseball	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+platelets	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+severance	JJ	B-NP
+pay	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+Roy	NNP	I-NP
+Roger	NNP	B-NP
+'s	POS	B-NP
+dog	NN	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+are	VBP	O
+the	DT	B-NP
+National	NNP	O
+Archives	NNPS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+baby	NN	I-NP
+turkey	NN	O
+called	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+poliomyelitis	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+longest	JJS	O
+bone	NN	O
+in	IN	O
+the	DT	B-NP
+human	JJ	B-NP
+body	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+German	JJ	I-NP
+philosopher	NN	O
+?	.	O
+	
+What	WP	B-NP
+were	VBD	O
+Christopher	NNP	B-NP
+Columbus	NNP	B-NP
+'	POS	B-NP
+three	CD	B-NP
+ships	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+Phi	JJ	O
+Beta	NN	B-NP
+Kappa	NNS	O
+mean	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+nicotine	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+another	DT	B-NP
+name	NN	I-NP
+for	IN	O
+vitamin	JJ	O
+B1	NN	O
+?	.	O
+	
+Who	WP	B-NP
+discovered	VBD	O
+radium	VBN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+sunspots	VBN	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Algeria	NNP	B-NP
+colonized	NN	O
+?	.	O
+	
+What	WP	B-NP
+baseball	NN	B-NP
+team	NN	I-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+to	TO	O
+make	VB	O
+numbers	NNS	I-NP
+part	NN	B-NP
+of	IN	O
+their	PRP$	B-NP
+uniform	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+continent	PRP	I-NP
+is	VBZ	O
+Egypt	VBN	B-NP
+on	RP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+capital	NN	I-NP
+of	IN	O
+Mongolia	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+nanotechnology	VBN	O
+?	.	O
+	
+In	IN	B-NP
+the	DT	B-NP
+late	JJ	B-NP
+1700	CD	O
+'s	POS	B-NP
+British	JJ	B-NP
+convicts	NNS	O
+were	VBD	O
+used	VBN	O
+to	TO	O
+populate	VB	O
+which	WDT	B-NP
+colony	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+state	NN	I-NP
+is	VBZ	O
+the	DT	B-NP
+geographic	JJ	I-NP
+center	NN	I-NP
+of	IN	O
+the	DT	B-NP
+lower	JJR	O
+48	CD	B-NP
+states	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+obtuse	JJ	O
+angle	NN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+polymers	NNS	O
+?	.	O
+	
+When	WRB	B-NP
+is	VBZ	O
+hurricane	NN	I-NP
+season	NN	I-NP
+in	IN	O
+the	DT	B-NP
+Caribbean	NNP	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+volcano	NN	I-NP
+Mauna	NNP	O
+Loa	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+another	DT	B-NP
+astronomic	JJ	O
+term	NN	I-NP
+for	IN	O
+the	DT	B-NP
+Northern	JJ	B-NP
+Lights	NNS	O
+?	.	O
+	
+What	WP	B-NP
+peninsula	PRP	I-NP
+is	VBZ	O
+Spain	NNP	B-NP
+part	NN	B-NP
+of	IN	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Lyndon	NNP	O
+B.	NNP	I-NP
+Johnson	NNP	I-NP
+born	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+acetaminophen	VBN	O
+?	.	O
+	
+What	WP	B-NP
+state	NN	I-NP
+has	VBZ	O
+the	DT	B-NP
+least	JJS	I-NP
+amount	NN	I-NP
+of	IN	O
+rain	NN	I-NP
+per	IN	O
+year	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+founded	VBD	O
+American	NNP	B-NP
+Red	NNP	I-NP
+Cross	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+Milwaukee	NNP	B-NP
+Braves	NNPS	O
+become	VBP	O
+the	DT	B-NP
+Atlanta	NNP	B-NP
+Braves	NNPS	O
+?	.	O
+	
+How	WRB	B-NP
+fast	RB	O
+is	VBZ	O
+alcohol	NN	I-NP
+absorbed	VBN	O
+?	.	O
+	
+When	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+summer	NN	I-NP
+solstice	NNS	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+supernova	VBN	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Shawnee	NNP	O
+National	NNP	O
+Forest	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+U.S.	NNP	O
+state	NN	I-NP
+'s	POS	B-NP
+motto	NN	O
+is	VBZ	O
+``	``	O
+Live	JJ	I-NP
+free	JJ	B-NP
+or	CC	I-NP
+Die	VB	O
+''	''	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Lourve	NNP	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+stamp	NN	B-NP
+issued	VBD	O
+?	.	O
+	
+What	WP	B-NP
+primary	JJ	B-NP
+colors	NNS	I-NP
+do	VBP	O
+you	PRP	B-NP
+mix	VB	I-NP
+to	TO	O
+make	VB	O
+orange	NN	B-NP
+?	.	O
+	
+How	WRB	B-NP
+far	RB	O
+is	VBZ	O
+Pluto	VBN	O
+from	IN	O
+the	DT	B-NP
+sun	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+body	NN	I-NP
+of	IN	O
+water	NN	B-NP
+are	VBP	O
+the	DT	B-NP
+Canary	NNP	O
+Islands	NNP	I-NP
+in	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+neuropathy	VBN	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Euphrates	NNP	O
+River	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+cryptography	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+natural	JJ	B-NP
+gas	NN	I-NP
+composed	VBN	O
+of	IN	O
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+Prime	NNP	B-NP
+Minister	NNP	I-NP
+of	IN	O
+Canada	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+French	JJ	I-NP
+ruler	NN	O
+was	VBD	O
+defeated	VBN	O
+at	IN	O
+the	DT	B-NP
+battle	NN	O
+of	IN	O
+Waterloo	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+leukemia	NN	O
+?	.	O
+	
+Where	WRB	B-NP
+did	VBD	O
+Howard	NNP	B-NP
+Hughes	NNP	I-NP
+die	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+birthstone	NN	O
+for	IN	O
+June	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+sales	NNS	I-NP
+tax	NN	I-NP
+in	IN	O
+Minnesota	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+distance	NN	I-NP
+in	IN	O
+miles	NNS	I-NP
+from	IN	O
+the	DT	B-NP
+earth	NN	B-NP
+to	TO	O
+the	DT	B-NP
+sun	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+average	JJ	I-NP
+life	NN	B-NP
+span	NN	I-NP
+for	IN	O
+a	DT	B-NP
+chicken	NN	B-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+Wal-Mart	NN	O
+store	NN	I-NP
+opened	VBD	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+relative	JJ	O
+humidity	NN	O
+?	.	O
+	
+What	WP	B-NP
+city	NN	I-NP
+has	VBZ	O
+the	DT	B-NP
+zip	NN	B-NP
+code	NN	I-NP
+of	IN	O
+35824	CD	O
+?	.	O
+	
+What	WP	B-NP
+currency	NN	I-NP
+is	VBZ	O
+used	VBN	O
+in	IN	O
+Algeria	NNP	B-NP
+?	.	O
+	
+Who	WP	B-NP
+invented	VBD	O
+the	DT	B-NP
+hula	JJ	O
+hoop	NN	O
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+most	RBS	B-NP
+popular	JJ	I-NP
+toy	NN	I-NP
+in	IN	O
+1957	CD	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+pastrami	VBN	O
+made	VBN	O
+of	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+the	DT	B-NP
+satellite	NN	I-NP
+that	IN	B-NP
+the	DT	B-NP
+Soviet	NNP	B-NP
+Union	NNP	O
+sent	VBD	O
+into	IN	O
+space	NN	I-NP
+in	IN	O
+1957	CD	B-NP
+?	.	O
+	
+What	WP	B-NP
+city	NN	I-NP
+'s	POS	B-NP
+newspaper	NN	I-NP
+is	VBZ	O
+called	VBN	O
+``	``	O
+The	DT	B-NP
+Enquirer	NNP	O
+''	''	O
+?	.	O
+	
+Who	WP	B-NP
+invented	VBD	O
+the	DT	B-NP
+slinky	JJ	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+the	DT	B-NP
+animals	NNS	B-NP
+that	IN	B-NP
+don	DT	O
+'t	NNS	O
+have	VBP	O
+backbones	VBN	O
+called	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+melting	NN	O
+point	NN	I-NP
+of	IN	O
+copper	NN	B-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+volcano	NN	I-NP
+Olympus	NNP	O
+Mons	NNP	O
+located	VBN	B-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+23rd	JJ	O
+president	NN	B-NP
+of	IN	O
+the	DT	B-NP
+United	NNP	B-NP
+States	NNPS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+average	JJ	I-NP
+body	NN	I-NP
+temperature	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+a	DT	B-NP
+defibrillator	NNS	O
+do	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+effect	NN	I-NP
+of	IN	O
+acid	NN	I-NP
+rain	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+United	NNP	B-NP
+States	NNPS	I-NP
+abolish	VB	O
+the	DT	B-NP
+draft	NN	O
+?	.	O
+	
+How	WRB	B-NP
+fast	RB	O
+is	VBZ	O
+the	DT	B-NP
+speed	NN	B-NP
+of	IN	O
+light	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+province	NN	I-NP
+is	VBZ	O
+Montreal	NNP	B-NP
+in	IN	O
+?	.	O
+	
+What	WP	B-NP
+New	NNP	B-NP
+York	NNP	O
+City	NNP	I-NP
+structure	NN	I-NP
+is	VBZ	O
+also	RB	O
+known	VBN	O
+as	IN	O
+the	DT	B-NP
+Twin	NNP	O
+Towers	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+fungus	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+most	RBS	B-NP
+frequently	RB	O
+spoken	VBN	O
+language	NN	I-NP
+in	IN	O
+the	DT	B-NP
+Netherlands	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+sodium	DT	O
+chloride	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+the	DT	B-NP
+spots	NNS	I-NP
+on	IN	O
+dominoes	NNS	O
+called	VBD	O
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+pounds	NNS	I-NP
+in	IN	O
+a	DT	B-NP
+ton	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+influenza	JJ	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+ozone	NN	B-NP
+depletion	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+was	VBD	O
+the	DT	B-NP
+Mona	NNP	O
+Lisa	NNP	I-NP
+painted	VBD	B-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+``	``	O
+Sitting	VBG	O
+Shiva	NNP	O
+''	''	O
+mean	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+electrical	JJ	B-NP
+output	NN	B-NP
+in	IN	O
+Madrid	NNP	B-NP
+,	,	O
+Spain	NNP	B-NP
+?	.	O
+	
+Which	DT	B-NP
+mountain	NN	B-NP
+range	NN	B-NP
+in	IN	O
+North	NNP	B-NP
+America	NNP	B-NP
+stretches	VBZ	B-NP
+from	IN	O
+Maine	NNP	B-NP
+to	TO	O
+Georgia	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+plastic	NN	B-NP
+made	VBN	O
+of	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+population	NN	I-NP
+of	IN	O
+Nigeria	NNP	O
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+your	PRP$	B-NP
+spleen	NNS	O
+do	VBP	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Grand	NNP	I-NP
+Canyon	NNP	O
+?	.	O
+	
+Who	WP	B-NP
+invented	VBD	O
+the	DT	B-NP
+telephone	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+U.S.	NNP	O
+buy	VB	O
+Alaska	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+the	DT	B-NP
+leader	NN	I-NP
+of	IN	O
+Ireland	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+phenylalanine	VBN	O
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+gallons	NNS	I-NP
+of	IN	O
+water	NN	B-NP
+are	VBP	O
+there	RB	B-NP
+in	IN	O
+a	DT	B-NP
+cubic	JJ	I-NP
+foot	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+the	DT	B-NP
+two	CD	B-NP
+houses	NNS	I-NP
+of	IN	O
+the	DT	B-NP
+Legislative	JJ	O
+branch	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+sonar	NN	O
+?	.	O
+	
+In	IN	B-NP
+Poland	NNP	B-NP
+,	,	O
+where	WRB	O
+do	VBP	O
+most	JJS	B-NP
+people	NNS	B-NP
+live	VBP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+phosphorus	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+location	NN	B-NP
+of	IN	O
+the	DT	B-NP
+Sea	NNP	I-NP
+of	IN	O
+Tranquility	NNP	O
+?	.	O
+	
+How	WRB	B-NP
+fast	RB	O
+is	VBZ	O
+sound	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+French	JJ	I-NP
+province	NN	I-NP
+is	VBZ	O
+cognac	VBN	O
+produced	VBN	O
+in	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Valentine	NNP	B-NP
+'s	POS	B-NP
+Day	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+causes	VBZ	I-NP
+gray	JJ	O
+hair	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+hypertension	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+bandwidth	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+longest	JJS	O
+suspension	NN	I-NP
+bridge	NN	I-NP
+in	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+parasite	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+home	NN	O
+equity	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+do	VBP	O
+meteorologists	NNS	O
+do	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+criterion	NN	O
+for	IN	O
+being	VBG	O
+legally	RB	O
+blind	JJ	O
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+tallest	JJS	I-NP
+man	NN	I-NP
+in	IN	O
+the	DT	B-NP
+world	NN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+the	DT	B-NP
+twin	JJ	B-NP
+cities	NNS	B-NP
+?	.	O
+	
+What	WP	B-NP
+did	VBD	O
+Edward	NNP	I-NP
+Binney	NNP	O
+and	CC	O
+Howard	NNP	B-NP
+Smith	NNP	I-NP
+invent	VBP	O
+in	IN	O
+1903	CD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+statue	NN	I-NP
+of	IN	O
+liberty	NN	I-NP
+made	VBN	O
+of	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+pilates	VBN	O
+?	.	O
+	
+What	WP	B-NP
+planet	NN	I-NP
+is	VBZ	O
+known	VBN	O
+as	IN	O
+the	DT	B-NP
+``	``	O
+red	JJ	I-NP
+''	''	O
+planet	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+depth	NN	I-NP
+of	IN	O
+the	DT	B-NP
+Nile	JJ	O
+river	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+colorful	JJ	O
+Korean	JJ	I-NP
+traditional	JJ	B-NP
+dress	NN	I-NP
+called	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Mardi	NNP	O
+Gras	NNP	I-NP
+?	.	O
+	
+Mexican	JJ	B-NP
+pesos	NNS	O
+are	VBP	O
+worth	JJ	O
+what	WP	I-NP
+in	IN	O
+U.S.	NNP	O
+dollars	NNS	B-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+African	JJ	O
+American	JJ	B-NP
+to	TO	O
+play	VB	O
+for	IN	O
+the	DT	B-NP
+Brooklyn	NNP	B-NP
+Dodgers	NNPS	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+Prime	NNP	B-NP
+Minister	NNP	I-NP
+of	IN	O
+Canada	NNP	B-NP
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+Admirals	NNS	O
+are	VBP	O
+there	RB	B-NP
+in	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+Navy	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+instrument	NN	I-NP
+did	VBD	O
+Glenn	NNP	O
+Miller	NNP	B-NP
+play	NN	O
+?	.	O
+	
+How	WRB	B-NP
+old	JJ	O
+was	VBD	O
+Joan	NNP	B-NP
+of	IN	O
+Arc	NNP	O
+when	WRB	O
+she	PRP	B-NP
+died	VBD	O
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+the	DT	B-NP
+word	NN	B-NP
+fortnight	NNS	O
+mean	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+dianetics	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+capital	NN	I-NP
+of	IN	O
+Ethiopia	NNP	B-NP
+?	.	O
+	
+For	IN	B-NP
+how	WRB	I-NP
+long	RB	I-NP
+is	VBZ	O
+an	DT	B-NP
+elephant	NN	B-NP
+pregnant	JJ	O
+?	.	O
+	
+How	WRB	B-NP
+did	VBD	O
+Janice	NNP	O
+Joplin	NNP	O
+die	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+primary	JJ	B-NP
+language	NN	I-NP
+in	IN	O
+Iceland	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+difference	NN	I-NP
+between	IN	B-NP
+AM	NNP	B-NP
+radio	NN	I-NP
+stations	NNS	I-NP
+and	CC	O
+FM	JJ	I-NP
+radio	NN	I-NP
+stations	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+osteoporosis	VBN	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+woman	NN	O
+governor	NN	B-NP
+in	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+peyote	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+esophagus	NN	O
+used	VBN	O
+for	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+viscosity	NN	O
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+Oklahoma	TO	B-NP
+become	VB	O
+a	DT	B-NP
+state	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+abbreviation	NN	O
+for	IN	O
+Texas	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+mirror	NN	O
+made	VBD	O
+out	RP	O
+of	IN	O
+?	.	O
+	
+Where	WRB	B-NP
+on	IN	O
+the	DT	B-NP
+body	NN	I-NP
+is	VBZ	O
+a	DT	B-NP
+mortarboard	JJ	O
+worn	NN	O
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+J.F.K.	NNP	O
+'s	POS	B-NP
+wife	NN	I-NP
+'s	POS	B-NP
+name	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+I.V.	JJ	O
+stand	NN	O
+for	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+chunnel	NN	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+Hitler	RB	O
+buried	VBN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+antacids	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+pulmonary	JJ	O
+fibrosis	NN	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+Quaaludes	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+naproxen	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+strep	JJ	O
+throat	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+largest	JJS	O
+city	NN	I-NP
+in	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+foot	NN	B-NP
+and	CC	O
+mouth	NN	O
+disease	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+life	NN	B-NP
+expectancy	NN	O
+of	IN	O
+a	DT	B-NP
+dollar	NN	O
+bill	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+do	VBP	O
+you	PRP	B-NP
+call	VBP	I-NP
+a	DT	B-NP
+professional	JJ	B-NP
+map	NN	I-NP
+drawer	NNS	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+Aborigines	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+hybridization	NN	O
+?	.	O
+	
+What	WP	B-NP
+color	NN	B-NP
+is	VBZ	O
+indigo	JJ	O
+?	.	O
+	
+How	WRB	B-NP
+old	JJ	O
+do	VBP	O
+you	PRP	B-NP
+have	VBP	O
+to	TO	O
+be	VB	O
+in	IN	O
+order	NN	O
+to	TO	O
+rent	VB	B-NP
+a	DT	B-NP
+car	NN	I-NP
+in	IN	O
+Italy	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+a	DT	B-NP
+barometer	NN	I-NP
+measure	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+color	NN	B-NP
+is	VBZ	O
+a	DT	B-NP
+giraffe	NN	O
+'s	POS	B-NP
+tongue	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+USPS	JJ	O
+stand	NN	O
+for	IN	O
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+NFL	NNP	I-NP
+go	VBP	I-NP
+on	IN	O
+strike	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+solar	JJ	B-NP
+wind	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+date	NN	B-NP
+did	VBD	O
+Neil	NNP	I-NP
+Armstrong	NNP	B-NP
+land	NN	B-NP
+on	IN	O
+the	DT	B-NP
+moon	NN	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Hiroshima	NNP	B-NP
+bombed	NNP	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Savannah	NNP	O
+River	NNP	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+woman	NN	O
+killed	VBN	O
+in	IN	O
+the	DT	B-NP
+Vietnam	NNP	B-NP
+War	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+planet	NN	I-NP
+has	VBZ	O
+the	DT	B-NP
+strongest	JJS	I-NP
+magnetic	JJ	B-NP
+field	NN	I-NP
+of	IN	O
+all	PDT	B-NP
+the	DT	B-NP
+planets	NNS	O
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+governor	NN	B-NP
+of	IN	O
+Alaska	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+Mussolini	TO	B-NP
+seize	VB	O
+power	NN	I-NP
+in	IN	O
+Italy	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+capital	NN	I-NP
+of	IN	O
+Persia	NNP	O
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Eiffel	NNP	O
+Tower	NNP	B-NP
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+hearts	NNS	I-NP
+does	VBZ	O
+an	DT	B-NP
+octopus	NNS	O
+have	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+pneumonia	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+deepest	JJS	I-NP
+lake	NN	O
+in	IN	O
+the	DT	B-NP
+US	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+fuel	NN	I-NP
+cell	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+U.S.	NNP	O
+president	NN	B-NP
+to	TO	O
+appear	VB	O
+on	IN	O
+TV	NN	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Little	NNP	B-NP
+League	NNP	I-NP
+Museum	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+the	DT	B-NP
+two	CD	B-NP
+types	NNS	I-NP
+of	IN	O
+twins	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+brightest	JJS	I-NP
+star	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+diabetes	NN	B-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+President	NNP	B-NP
+Kennedy	NNP	I-NP
+shot	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+TMJ	NNP	O
+?	.	O
+	
+What	WP	B-NP
+color	NN	B-NP
+is	VBZ	O
+yak	JJ	O
+milk	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+date	NN	B-NP
+was	VBD	O
+Dwight	NNP	O
+D.	NNP	B-NP
+Eisenhower	VBD	O
+born	VBN	O
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+the	DT	B-NP
+technical	JJ	I-NP
+term	NN	I-NP
+ISDN	NNS	O
+mean	VBP	O
+?	.	O
+	
+Why	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+sun	NN	I-NP
+yellow	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+conversion	NN	I-NP
+rate	NN	I-NP
+between	IN	B-NP
+dollars	NNS	B-NP
+and	CC	O
+pounds	NNS	I-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Abraham	NNP	B-NP
+Lincoln	NNP	B-NP
+born	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+Milky	NNP	O
+Way	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+mold	NN	O
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+was	VBD	O
+Mozart	RB	O
+born	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+group	NN	I-NP
+of	IN	O
+frogs	NNS	O
+called	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+William	NNP	B-NP
+Penn	NNP	I-NP
+'s	POS	B-NP
+ship	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+melting	NN	O
+point	NN	I-NP
+of	IN	O
+gold	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+street	NN	B-NP
+address	NN	O
+of	IN	O
+the	DT	B-NP
+White	NNP	O
+House	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+semolina	VBN	O
+?	.	O
+	
+What	WP	B-NP
+fruit	NN	B-NP
+is	VBZ	O
+Melba	NNP	O
+sauce	VBD	O
+made	VBN	O
+from	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Ursa	NNP	O
+Major	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+percentage	NN	O
+of	IN	O
+water	NN	B-NP
+content	NN	O
+in	IN	O
+the	DT	B-NP
+human	JJ	B-NP
+body	NN	I-NP
+?	.	O
+	
+How	WRB	B-NP
+much	RB	I-NP
+does	VBZ	O
+water	NN	B-NP
+weigh	VBP	O
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+President	NNP	B-NP
+Lyndon	NNP	O
+Johnson	NNP	I-NP
+'s	POS	B-NP
+reform	NN	B-NP
+program	NN	I-NP
+called	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+murder	NN	B-NP
+rate	NN	I-NP
+in	IN	O
+Windsor	NNP	I-NP
+,	,	O
+Ontario	NNP	B-NP
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+only	JJ	B-NP
+president	NN	B-NP
+to	TO	O
+serve	VB	O
+2	CD	I-NP
+non-consecutive	JJ	O
+terms	NNS	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+population	NN	I-NP
+of	IN	O
+Australia	NNP	B-NP
+?	.	O
+	
+Who	WP	B-NP
+painted	VBD	B-NP
+the	DT	B-NP
+ceiling	NN	B-NP
+of	IN	O
+the	DT	B-NP
+Sistine	NNP	O
+Chapel	NNP	O
+?	.	O
+	
+Name	IN	B-NP
+a	DT	B-NP
+stimulant	NN	O
+.	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+effect	NN	I-NP
+of	IN	O
+volcanoes	NN	O
+on	IN	O
+the	DT	B-NP
+climate	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+Andy	NNP	B-NP
+Griffith	NNPS	O
+show	VBP	I-NP
+begin	VB	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+acid	NN	I-NP
+rain	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+date	NN	B-NP
+of	IN	O
+Mexico	NNP	B-NP
+'s	POS	B-NP
+independence	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+location	NN	B-NP
+of	IN	O
+Lake	NNP	B-NP
+Champlain	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+Illinois	NNP	B-NP
+state	NN	I-NP
+flower	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Maryland	NNP	B-NP
+'s	POS	B-NP
+state	NN	I-NP
+bird	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+quicksilver	VBN	O
+?	.	O
+	
+Who	WP	B-NP
+wrote	VBD	O
+``	``	O
+The	DT	B-NP
+Divine	NNP	O
+Comedy	.	O
+''	''	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+speed	NN	B-NP
+of	IN	O
+light	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+width	NN	O
+of	IN	O
+a	DT	B-NP
+football	NN	B-NP
+field	NN	I-NP
+?	.	O
+	
+Why	WRB	B-NP
+in	IN	O
+tennis	NN	I-NP
+are	VBP	O
+zero	CD	B-NP
+points	NNS	I-NP
+called	VBD	O
+love	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+kind	NN	O
+of	IN	O
+dog	NN	I-NP
+was	VBD	O
+Toto	NNP	B-NP
+in	IN	O
+the	DT	B-NP
+Wizard	NN	O
+of	IN	O
+Oz	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+thyroid	NN	O
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+ciao	RB	O
+mean	VB	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+only	JJ	B-NP
+artery	NN	I-NP
+that	WDT	B-NP
+carries	VBZ	O
+blue	JJ	I-NP
+blood	NN	B-NP
+from	IN	O
+the	DT	B-NP
+heart	NN	B-NP
+to	TO	O
+the	DT	B-NP
+lungs	NNS	B-NP
+?	.	O
+	
+How	WRB	B-NP
+often	RB	O
+does	VBZ	O
+Old	NNP	B-NP
+Faithful	NNP	O
+erupt	VB	O
+at	IN	O
+Yellowstone	NNP	O
+National	NNP	O
+Park	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+acetic	JJ	O
+acid	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+elevation	NN	O
+of	IN	O
+St.	NNP	I-NP
+Louis	NNP	I-NP
+,	,	O
+MO	NNP	O
+?	.	O
+	
+What	WP	B-NP
+color	NN	B-NP
+does	VBZ	O
+litmus	DT	I-NP
+paper	NN	I-NP
+turn	NN	B-NP
+when	WRB	O
+it	PRP	B-NP
+comes	VBZ	O
+into	IN	O
+contact	NN	B-NP
+with	IN	O
+a	DT	B-NP
+strong	JJ	B-NP
+acid	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+the	DT	B-NP
+colors	NNS	I-NP
+of	IN	O
+the	DT	B-NP
+German	JJ	I-NP
+flag	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+Moulin	NNP	O
+Rouge	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+soviet	JJ	O
+seaport	NN	O
+is	VBZ	O
+on	IN	O
+the	DT	B-NP
+Black	NNP	B-NP
+Sea	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+atomic	JJ	O
+weight	NN	I-NP
+of	IN	O
+silver	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+currency	NN	I-NP
+do	VBP	O
+they	PRP	B-NP
+use	VBP	I-NP
+in	IN	O
+Brazil	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+pathogens	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+mad	JJ	I-NP
+cow	JJ	O
+disease	NN	I-NP
+?	.	O
+	
+Name	IN	B-NP
+a	DT	B-NP
+food	NN	I-NP
+high	NN	O
+in	IN	O
+zinc	NN	I-NP
+.	.	O
+	
+When	WRB	B-NP
+did	VBD	O
+North	NNP	B-NP
+Carolina	NNP	I-NP
+enter	VBP	O
+the	DT	B-NP
+union	NN	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+do	VBP	O
+apple	NN	I-NP
+snails	NNS	O
+live	VBP	I-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+ethics	NNS	B-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+CPR	JJ	O
+stand	NN	O
+for	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+annuity	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+killed	VBD	O
+John	NNP	O
+F.	NNP	I-NP
+Kennedy	NNP	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+vice	NN	B-NP
+president	NN	B-NP
+of	IN	O
+the	DT	B-NP
+U.S.	NNP	O
+?	.	O
+	
+What	WP	B-NP
+birthstone	RB	O
+is	VBZ	O
+turquoise	NN	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+US	NNP	B-NP
+President	NNP	B-NP
+to	TO	O
+ride	VB	I-NP
+in	IN	O
+an	DT	B-NP
+automobile	NN	I-NP
+to	TO	O
+his	PRP$	B-NP
+inauguration	NN	O
+?	.	O
+	
+How	WRB	B-NP
+old	JJ	O
+was	VBD	O
+the	DT	B-NP
+youngest	JJS	I-NP
+president	NN	B-NP
+of	IN	O
+the	DT	B-NP
+United	NNP	B-NP
+States	NNPS	I-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Ulysses	NNP	O
+S.	NNP	I-NP
+Grant	NNP	B-NP
+born	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Muscular	NNP	O
+Dystrophy	NNP	O
+?	.	O
+	
+Who	WP	B-NP
+lived	VBD	O
+in	IN	O
+the	DT	B-NP
+Neuschwanstein	JJ	O
+castle	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+propylene	DT	I-NP
+glycol	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+panic	NN	I-NP
+disorder	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+invented	VBD	O
+the	DT	B-NP
+instant	JJ	B-NP
+Polaroid	NNP	B-NP
+camera	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+carcinogen	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+baby	NN	I-NP
+lion	NN	I-NP
+called	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+world	NN	O
+'s	POS	B-NP
+population	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+nepotism	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+die-casting	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+myopia	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+sales	NNS	I-NP
+tax	NN	I-NP
+rate	NN	I-NP
+in	IN	O
+New	NNP	B-NP
+York	NNP	O
+?	.	O
+	
+Developing	VBG	B-NP
+nations	NNS	I-NP
+comprise	VBP	O
+what	WP	I-NP
+percentage	NN	O
+of	IN	O
+the	DT	B-NP
+world	NN	O
+'s	POS	B-NP
+population	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+fourth	JJ	I-NP
+highest	JJS	I-NP
+mountain	NN	B-NP
+in	IN	O
+the	DT	B-NP
+world	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Shakespeare	NNP	B-NP
+'s	POS	B-NP
+nickname	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+heaviest	JJS	I-NP
+naturally	RB	O
+occurring	VBG	O
+element	NN	I-NP
+?	.	O
+	
+When	WRB	B-NP
+is	VBZ	O
+Father	NNP	I-NP
+'s	POS	B-NP
+Day	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+the	DT	B-NP
+acronym	NNP	O
+NASA	NNP	B-NP
+stand	NN	O
+for	IN	O
+?	.	O
+	
+How	WRB	B-NP
+long	RB	I-NP
+is	VBZ	O
+the	DT	B-NP
+Columbia	NNP	B-NP
+River	NNP	I-NP
+in	IN	O
+miles	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+city	NN	I-NP
+'s	POS	B-NP
+newspaper	NN	I-NP
+is	VBZ	O
+called	VBN	O
+``	``	O
+The	DT	B-NP
+Star	NNP	I-NP
+''	''	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+carbon	NN	B-NP
+dioxide	NN	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+Mason/Dixon	JJ	O
+line	NN	I-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+Boston	NNP	O
+tea	NN	B-NP
+party	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+metabolism	NN	O
+?	.	O
+	
+Which	NNP	B-NP
+U.S.A.	NNP	I-NP
+president	NN	B-NP
+appeared	VBD	O
+on	IN	O
+``	``	O
+Laugh-In	UH	O
+''	''	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+cigarettes	NNS	B-NP
+made	VBN	O
+of	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+capital	NN	I-NP
+of	IN	O
+Zimbabwe	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+NASA	NNP	B-NP
+stand	NN	O
+for	IN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+state	NN	I-NP
+flower	NN	B-NP
+of	IN	O
+Michigan	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+semiconductors	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+nuclear	JJ	I-NP
+power	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+tsunami	NN	O
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+congressman	NN	I-NP
+from	IN	O
+state	NN	I-NP
+of	IN	O
+Texas	NNP	B-NP
+on	IN	O
+the	DT	B-NP
+armed	JJ	B-NP
+forces	NNS	I-NP
+committee	NN	I-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+president	NN	B-NP
+in	IN	O
+1913	CD	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+kidney	NN	B-NP
+transplant	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+Canada	NNP	B-NP
+'s	POS	B-NP
+two	CD	B-NP
+territories	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+the	DT	B-NP
+plane	NN	I-NP
+Lindbergh	NNP	O
+flew	VBD	O
+solo	NN	B-NP
+across	IN	O
+the	DT	B-NP
+Atlantic	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+genocide	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+continent	PRP	I-NP
+is	VBZ	O
+Argentina	NNP	B-NP
+on	IN	O
+?	.	O
+	
+What	WP	B-NP
+monastery	PRP	I-NP
+was	VBD	O
+raided	VBN	O
+by	IN	O
+Vikings	NNPS	O
+in	IN	O
+the	DT	B-NP
+late	JJ	B-NP
+eighth	JJ	O
+century	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+earthquake	NN	I-NP
+?	.	O
+	
+Where	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+tallest	JJS	I-NP
+roller	NN	I-NP
+coaster	NN	I-NP
+located	VBN	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+enzymes	VBN	O
+?	.	O
+	
+Who	WP	B-NP
+discovered	VBD	O
+oxygen	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+bangers	VBN	O
+and	CC	O
+mash	NNS	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+name	NN	I-NP
+given	VBN	O
+to	TO	O
+the	DT	B-NP
+Tiger	NNP	B-NP
+at	IN	O
+Louisiana	NNP	B-NP
+State	NNP	O
+University	NNP	O
+?	.	O
+	
+Where	WRB	B-NP
+are	VBP	O
+the	DT	B-NP
+British	JJ	B-NP
+crown	NN	B-NP
+jewels	NNS	I-NP
+kept	VBD	O
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+person	NN	I-NP
+to	TO	O
+reach	VB	O
+the	DT	B-NP
+North	NNP	B-NP
+Pole	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+ulcer	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+vertigo	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+spirometer	JJ	O
+test	NN	I-NP
+?	.	O
+	
+When	WRB	B-NP
+is	VBZ	O
+the	DT	B-NP
+official	JJ	I-NP
+first	JJ	I-NP
+day	NN	I-NP
+of	IN	O
+summer	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+does	VBZ	O
+the	DT	B-NP
+abbreviation	NN	O
+SOS	NNS	O
+mean	VBP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+smallest	JJS	I-NP
+bird	NN	I-NP
+in	IN	O
+Britain	NNP	B-NP
+?	.	O
+	
+Who	WP	B-NP
+invented	VBD	O
+Trivial	NNP	O
+Pursuit	NNP	O
+?	.	O
+	
+What	WP	B-NP
+gasses	NNS	O
+are	VBP	O
+in	IN	O
+the	DT	B-NP
+troposphere	NN	O
+?	.	O
+	
+Which	DT	B-NP
+country	NN	I-NP
+has	VBZ	O
+the	DT	B-NP
+most	JJS	B-NP
+water	NN	B-NP
+pollution	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+scientific	JJ	I-NP
+name	NN	I-NP
+for	IN	O
+elephant	NN	B-NP
+?	.	O
+	
+Who	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+actress	NN	I-NP
+known	VBN	O
+for	IN	O
+her	PRP$	B-NP
+role	NN	I-NP
+in	IN	O
+the	DT	B-NP
+movie	NN	I-NP
+``	``	O
+Gypsy	UH	O
+''	''	O
+?	.	O
+	
+What	WP	B-NP
+breed	VBP	I-NP
+of	IN	O
+hunting	NN	O
+dog	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+Beverly	NNP	B-NP
+Hillbillies	NNP	O
+own	JJ	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+rainiest	JJ	O
+place	NN	B-NP
+on	IN	O
+Earth	NNP	B-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+African	JJ	O
+American	JJ	B-NP
+to	TO	O
+win	VB	O
+the	DT	B-NP
+Nobel	NNP	B-NP
+Prize	NNP	I-NP
+in	IN	O
+literature	NN	B-NP
+?	.	O
+	
+When	WRB	B-NP
+is	VBZ	O
+St.	NNP	I-NP
+Patrick	NNP	B-NP
+'s	POS	B-NP
+Day	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+FDR	NNP	O
+'s	POS	B-NP
+dog	NN	I-NP
+'s	POS	B-NP
+name	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+colors	NNS	I-NP
+need	VBP	O
+to	TO	O
+be	VB	O
+mixed	VBN	O
+to	TO	O
+get	VB	O
+the	DT	B-NP
+color	NN	B-NP
+pink	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+most	RBS	B-NP
+popular	JJ	I-NP
+sport	NN	I-NP
+in	IN	O
+Japan	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+active	JJ	I-NP
+ingredient	NN	I-NP
+in	IN	O
+baking	JJ	O
+soda	NN	B-NP
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+Thomas	NNP	O
+Jefferson	NNP	I-NP
+born	VBN	O
+?	.	O
+	
+How	WRB	B-NP
+cold	PRP	I-NP
+should	MD	O
+a	DT	B-NP
+refrigerator	NN	I-NP
+be	VB	O
+?	.	O
+	
+When	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+telephone	NN	I-NP
+invented	VBD	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+most	RBS	B-NP
+common	JJ	I-NP
+eye	NN	I-NP
+color	NN	B-NP
+?	.	O
+	
+Where	WRB	B-NP
+was	VBD	O
+the	DT	B-NP
+first	JJ	I-NP
+golf	NN	I-NP
+course	NN	B-NP
+in	IN	O
+the	DT	B-NP
+United	NNP	B-NP
+States	NNPS	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+schizophrenia	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+angiotensin	VBN	O
+?	.	O
+	
+What	WP	B-NP
+did	VBD	O
+Jesse	NNP	I-NP
+Jackson	NNP	I-NP
+organize	NNP	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+New	NNP	B-NP
+York	NNP	O
+'s	POS	B-NP
+state	NN	I-NP
+bird	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+National	NNP	O
+Park	NNP	I-NP
+in	IN	O
+Utah	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+Susan	NNP	B-NP
+B.	NNP	I-NP
+Anthony	NNP	I-NP
+'s	POS	B-NP
+birthday	NN	I-NP
+?	.	O
+	
+In	IN	B-NP
+which	WDT	B-NP
+state	NN	I-NP
+would	MD	O
+you	PRP	B-NP
+find	VBP	O
+the	DT	B-NP
+Catskill	NNP	O
+Mountains	NNPS	O
+?	.	O
+	
+What	WP	B-NP
+do	VBP	O
+you	PRP	B-NP
+call	VBP	I-NP
+a	DT	B-NP
+word	NN	B-NP
+that	WDT	B-NP
+is	VBZ	O
+spelled	VBN	O
+the	DT	B-NP
+same	JJ	O
+backwards	NN	O
+and	CC	O
+forwards	RB	O
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+pediatricians	VBN	O
+?	.	O
+	
+What	WP	B-NP
+chain	NN	I-NP
+store	NN	I-NP
+is	VBZ	O
+headquartered	VBN	O
+in	IN	O
+Bentonville	NNP	O
+,	,	O
+Arkansas	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+solar	JJ	B-NP
+cells	NNS	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+compounded	VBN	I-NP
+interest	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+are	VBP	O
+capers	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+an	DT	B-NP
+antigen	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+currency	NN	I-NP
+does	VBZ	O
+Luxembourg	NNP	I-NP
+use	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+population	NN	I-NP
+of	IN	O
+Venezuela	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+type	NN	I-NP
+of	IN	O
+polymer	NN	O
+is	VBZ	O
+used	VBN	O
+for	IN	O
+bulletproof	JJ	O
+vests	NNS	I-NP
+?	.	O
+	
+What	WP	B-NP
+currency	NN	I-NP
+does	VBZ	O
+Argentina	NNP	B-NP
+use	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+a	DT	B-NP
+thermometer	NN	O
+?	.	O
+	
+What	WP	B-NP
+Canadian	JJ	I-NP
+city	NN	I-NP
+has	VBZ	O
+the	DT	B-NP
+largest	JJS	O
+population	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+color	PRP	B-NP
+are	VBP	O
+crickets	VBN	O
+?	.	O
+	
+Which	DT	B-NP
+country	NN	I-NP
+gave	VBD	O
+New	NNP	B-NP
+York	NNP	O
+the	DT	B-NP
+Statue	NN	O
+of	IN	O
+Liberty	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+name	NN	I-NP
+of	IN	O
+the	DT	B-NP
+first	JJ	I-NP
+U.S.	NNP	O
+satellite	NN	I-NP
+sent	VBD	O
+into	IN	O
+space	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+precious	JJ	B-NP
+stone	NN	I-NP
+is	VBZ	O
+a	DT	B-NP
+form	NN	I-NP
+of	IN	O
+pure	JJ	B-NP
+carbon	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+kind	NN	O
+of	IN	O
+gas	NN	I-NP
+is	VBZ	O
+in	IN	O
+a	DT	B-NP
+fluorescent	JJ	O
+bulb	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+rheumatoid	JJ	O
+arthritis	NN	O
+?	.	O
+	
+What	WP	B-NP
+river	NN	B-NP
+runs	VBZ	O
+through	IN	O
+Rowe	NNP	I-NP
+,	,	O
+Italy	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+cerebral	JJ	O
+palsy	NN	O
+?	.	O
+	
+What	WP	B-NP
+city	NN	I-NP
+is	VBZ	O
+also	RB	O
+known	VBN	O
+as	IN	O
+``	``	O
+The	DT	B-NP
+Gateway	NN	O
+to	TO	O
+the	DT	B-NP
+West	JJ	B-NP
+''	''	O
+?	.	O
+	
+How	WRB	B-NP
+far	RB	O
+away	RB	O
+is	VBZ	O
+the	DT	B-NP
+moon	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+source	NN	I-NP
+of	IN	O
+natural	JJ	B-NP
+gas	NN	I-NP
+?	.	O
+	
+In	IN	B-NP
+what	WP	I-NP
+spacecraft	NN	I-NP
+did	VBD	O
+U.S.	NNP	O
+astronaut	VBD	O
+Alan	NNP	I-NP
+Shepard	NNP	O
+make	VB	O
+his	PRP$	B-NP
+historic	JJ	I-NP
+1961	CD	B-NP
+flight	NN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+pectin	VBN	O
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+bio-diversity	NN	O
+?	.	O
+	
+What	WP	B-NP
+'s	VBZ	B-NP
+the	DT	B-NP
+easiest	JJS	I-NP
+way	NN	I-NP
+to	TO	O
+remove	VB	O
+wallpaper	NN	B-NP
+?	.	O
+	
+What	WP	B-NP
+year	NN	I-NP
+did	VBD	O
+the	DT	B-NP
+Titanic	JJ	O
+start	NN	O
+on	IN	O
+its	PRP$	B-NP
+journey	NN	I-NP
+?	.	O
+	
+How	WRB	B-NP
+much	RB	I-NP
+of	IN	O
+an	DT	B-NP
+apple	NN	I-NP
+is	VBZ	O
+water	NN	B-NP
+?	.	O
+	
+Who	WP	B-NP
+was	VBD	O
+the	DT	B-NP
+22nd	JJ	I-NP
+President	NNP	B-NP
+of	IN	O
+the	DT	B-NP
+US	NNP	B-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+money	NN	B-NP
+they	PRP	B-NP
+use	VBP	I-NP
+in	IN	O
+Zambia	NNP	O
+?	.	O
+	
+How	WRB	B-NP
+many	JJ	B-NP
+feet	NNS	O
+in	IN	O
+a	DT	B-NP
+mile	NN	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+the	DT	B-NP
+birthstone	NN	O
+of	IN	O
+October	NNP	I-NP
+?	.	O
+	
+What	WP	B-NP
+is	VBZ	O
+e-coli	VBN	O
+?	.	O
+	

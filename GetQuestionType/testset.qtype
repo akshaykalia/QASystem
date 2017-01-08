@@ -1,0 +1,4258 @@
+
+How	NUM
+far	NUM
+is	NUM
+it	NUM
+from	DESC
+Denver	DESC
+to	NUM
+Aspen	DESC
+?	DESC
+
+What	LOC
+county	LOC
+is	LOC
+Modesto	LOC
+,	LOC
+California	ENTY
+in	ENTY
+?	ENTY
+
+Who	HUM
+was	HUM
+Galileo	HUM
+?	HUM
+
+What	DESC
+is	DESC
+an	DESC
+atom	DESC
+?	DESC
+
+When	NUM
+did	NUM
+Hawaii	NUM
+become	NUM
+a	NUM
+state	NUM
+?	LOC
+
+How	NUM
+tall	NUM
+is	DESC
+the	NUM
+Sears	DESC
+Building	NUM
+?	NUM
+
+George	ENTY
+Bush	ENTY
+purchased	ENTY
+a	ENTY
+small	ENTY
+interest	ENTY
+in	ENTY
+which	HUM
+baseball	HUM
+team	HUM
+?	HUM
+
+What	DESC
+is	DESC
+Australia	DESC
+'s	DESC
+national	HUM
+flower	DESC
+?	DESC
+
+Why	DESC
+does	DESC
+the	DESC
+moon	NUM
+turn	NUM
+orange	DESC
+?	DESC
+
+What	DESC
+is	DESC
+autism	DESC
+?	DESC
+
+What	LOC
+city	LOC
+had	LOC
+a	LOC
+world	HUM
+fair	LOC
+in	LOC
+1900	LOC
+?	LOC
+
+What	HUM
+person	HUM
+'s	HUM
+head	HUM
+is	HUM
+on	HUM
+a	HUM
+dime	HUM
+?	HUM
+
+What	NUM
+is	NUM
+the	NUM
+average	NUM
+weight	NUM
+of	NUM
+a	NUM
+Yellow	NUM
+Labrador	NUM
+?	NUM
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+man	HUM
+to	HUM
+fly	HUM
+across	HUM
+the	HUM
+Pacific	HUM
+Ocean	HUM
+?	HUM
+
+When	NUM
+did	NUM
+Idaho	NUM
+become	NUM
+a	NUM
+state	NUM
+?	LOC
+
+What	NUM
+is	NUM
+the	NUM
+life	NUM
+expectancy	NUM
+for	NUM
+crickets	NUM
+?	NUM
+
+What	ENTY
+metal	ENTY
+has	LOC
+the	LOC
+highest	LOC
+melting	LOC
+point	LOC
+?	DESC
+
+Who	HUM
+developed	HUM
+the	HUM
+vaccination	HUM
+against	HUM
+polio	HUM
+?	HUM
+
+What	DESC
+is	DESC
+epilepsy	DESC
+?	DESC
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+Titanic	NUM
+sink	NUM
+?	NUM
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+American	HUM
+to	HUM
+walk	HUM
+in	HUM
+space	HUM
+?	HUM
+
+What	DESC
+is	DESC
+a	DESC
+biosphere	DESC
+?	DESC
+
+What	LOC
+river	LOC
+in	LOC
+the	LOC
+US	LOC
+is	LOC
+known	LOC
+as	LOC
+the	LOC
+Big	LOC
+Muddy	LOC
+?	LOC
+
+What	DESC
+is	DESC
+bipolar	DESC
+disorder	DESC
+?	ENTY
+
+What	DESC
+is	DESC
+cholesterol	DESC
+?	DESC
+
+Who	HUM
+developed	HUM
+the	HUM
+Macintosh	HUM
+computer	HUM
+?	HUM
+
+What	DESC
+is	DESC
+caffeine	DESC
+?	DESC
+
+What	DESC
+imaginary	ENTY
+line	DESC
+is	DESC
+halfway	DESC
+between	DESC
+the	DESC
+North	DESC
+and	LOC
+South	LOC
+Poles	LOC
+?	LOC
+
+Where	LOC
+is	LOC
+John	LOC
+Wayne	LOC
+airport	LOC
+?	LOC
+
+What	ENTY
+hemisphere	ENTY
+is	DESC
+the	HUM
+Philippines	LOC
+in	ENTY
+?	ENTY
+
+What	DESC
+is	NUM
+the	NUM
+average	NUM
+speed	NUM
+of	NUM
+the	DESC
+horses	NUM
+at	NUM
+the	ENTY
+Kentucky	NUM
+Derby	NUM
+?	DESC
+
+Where	LOC
+are	LOC
+the	LOC
+Rocky	LOC
+Mountains	LOC
+?	LOC
+
+What	NUM
+are	NUM
+invertebrates	NUM
+?	NUM
+
+What	NUM
+is	NUM
+the	NUM
+temperature	NUM
+at	NUM
+the	NUM
+center	NUM
+of	NUM
+the	NUM
+earth	NUM
+?	NUM
+
+When	NUM
+did	DESC
+John	DESC
+F.	DESC
+Kennedy	DESC
+get	DESC
+elected	DESC
+as	DESC
+President	DESC
+?	DESC
+
+How	NUM
+old	NUM
+was	NUM
+Elvis	NUM
+Presley	HUM
+when	DESC
+he	DESC
+died	DESC
+?	DESC
+
+Where	LOC
+is	LOC
+the	LOC
+Orinoco	LOC
+River	LOC
+?	LOC
+
+How	NUM
+far	NUM
+is	NUM
+the	NUM
+service	DESC
+line	NUM
+from	NUM
+the	NUM
+net	NUM
+in	HUM
+tennis	DESC
+?	NUM
+
+How	NUM
+much	NUM
+fiber	NUM
+should	NUM
+you	NUM
+have	NUM
+per	NUM
+day	NUM
+?	NUM
+
+How	NUM
+many	NUM
+Great	NUM
+Lakes	NUM
+are	NUM
+there	NUM
+?	NUM
+
+Material	HUM
+called	HUM
+linen	ENTY
+is	ENTY
+made	ENTY
+from	DESC
+what	ENTY
+plant	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+Teflon	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+amitriptyline	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+a	DESC
+shaman	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+proper	HUM
+name	ENTY
+for	ENTY
+a	HUM
+female	ENTY
+walrus	ENTY
+?	HUM
+
+What	HUM
+is	HUM
+a	HUM
+group	HUM
+of	HUM
+turkeys	HUM
+called	HUM
+?	HUM
+
+How	NUM
+long	NUM
+did	NUM
+Rip	NUM
+Van	NUM
+Winkle	NUM
+sleep	NUM
+?	NUM
+
+What	ENTY
+are	ENTY
+triglycerides	DESC
+?	ENTY
+
+How	NUM
+many	NUM
+liters	NUM
+in	NUM
+a	DESC
+gallon	NUM
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	ENTY
+of	ENTY
+the	HUM
+chocolate	HUM
+company	HUM
+in	HUM
+San	HUM
+Francisco	ENTY
+?	ENTY
+
+What	HUM
+are	ENTY
+amphibians	DESC
+?	HUM
+
+Who	HUM
+discovered	HUM
+x-rays	HUM
+?	HUM
+
+Which	HUM
+comedian	HUM
+'s	HUM
+signature	HUM
+line	HUM
+is	HUM
+``	HUM
+Can	HUM
+we	HUM
+talk	HUM
+''	HUM
+?	HUM
+
+What	ENTY
+is	DESC
+fibromyalgia	DESC
+?	DESC
+
+What	DESC
+is	DESC
+done	DESC
+with	DESC
+worn	DESC
+or	ENTY
+outdated	ENTY
+flags	ENTY
+?	ENTY
+
+What	DESC
+does	DESC
+cc	DESC
+in	DESC
+engines	DESC
+mean	DESC
+?	DESC
+
+When	NUM
+did	NUM
+Elvis	NUM
+Presley	DESC
+die	DESC
+?	NUM
+
+What	LOC
+is	LOC
+the	LOC
+capital	LOC
+of	LOC
+Yugoslavia	LOC
+?	LOC
+
+Where	LOC
+is	LOC
+Milan	LOC
+?	LOC
+
+What	DESC
+is	NUM
+the	NUM
+speed	NUM
+hummingbirds	NUM
+fly	DESC
+?	NUM
+
+What	LOC
+is	LOC
+the	LOC
+oldest	LOC
+city	LOC
+in	LOC
+the	LOC
+United	LOC
+States	LOC
+?	LOC
+
+What	HUM
+was	HUM
+W.C.	HUM
+Fields	HUM
+'	HUM
+real	HUM
+name	HUM
+?	HUM
+
+What	LOC
+river	LOC
+flows	LOC
+between	LOC
+Fargo	ENTY
+,	ENTY
+North	LOC
+Dakota	ENTY
+and	ENTY
+Moorhead	LOC
+,	LOC
+Minnesota	LOC
+?	LOC
+
+What	DESC
+do	ENTY
+bats	ENTY
+eat	ENTY
+?	LOC
+
+What	LOC
+state	LOC
+did	LOC
+the	LOC
+Battle	LOC
+of	LOC
+Bighorn	LOC
+take	LOC
+place	LOC
+in	LOC
+?	LOC
+
+Who	HUM
+was	HUM
+Abraham	HUM
+Lincoln	HUM
+?	HUM
+
+What	ENTY
+do	ENTY
+you	ENTY
+call	ENTY
+a	ENTY
+newborn	ENTY
+kangaroo	DESC
+?	ENTY
+
+What	ENTY
+are	ENTY
+spider	DESC
+veins	DESC
+?	DESC
+
+What	NUM
+day	NUM
+and	NUM
+month	NUM
+did	NUM
+John	NUM
+Lennon	NUM
+die	NUM
+?	NUM
+
+What	LOC
+strait	ENTY
+separates	LOC
+North	LOC
+America	LOC
+from	LOC
+Asia	LOC
+?	LOC
+
+What	NUM
+is	NUM
+the	NUM
+population	NUM
+of	NUM
+Seattle	NUM
+?	NUM
+
+How	NUM
+much	NUM
+was	NUM
+a	NUM
+ticket	NUM
+for	NUM
+the	NUM
+Titanic	NUM
+?	NUM
+
+What	LOC
+is	LOC
+the	LOC
+largest	LOC
+city	LOC
+in	LOC
+the	LOC
+world	LOC
+?	LOC
+
+What	HUM
+American	HUM
+composer	HUM
+wrote	HUM
+the	HUM
+music	HUM
+for	DESC
+``	DESC
+West	HUM
+Side	HUM
+Story	HUM
+''	HUM
+?	HUM
+
+Where	LOC
+is	LOC
+the	LOC
+Mall	LOC
+of	LOC
+the	LOC
+America	LOC
+?	LOC
+
+What	ENTY
+is	ENTY
+the	DESC
+pH	DESC
+scale	ENTY
+?	ENTY
+
+What	ENTY
+type	ENTY
+of	ENTY
+currency	ENTY
+is	ENTY
+used	ENTY
+in	ENTY
+Australia	ENTY
+?	ENTY
+
+How	NUM
+tall	NUM
+is	DESC
+the	DESC
+Gateway	NUM
+Arch	DESC
+in	DESC
+St.	DESC
+Louis	DESC
+,	HUM
+MO	HUM
+?	DESC
+
+How	NUM
+much	NUM
+does	NUM
+the	NUM
+human	ENTY
+adult	ENTY
+female	ENTY
+brain	NUM
+weigh	NUM
+?	NUM
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+governor	HUM
+of	HUM
+Alaska	HUM
+?	HUM
+
+What	DESC
+is	DESC
+a	DESC
+prism	DESC
+?	DESC
+
+When	NUM
+was	NUM
+the	NUM
+first	DESC
+liver	DESC
+transplant	DESC
+?	DESC
+
+Who	HUM
+was	HUM
+elected	HUM
+president	HUM
+of	HUM
+South	HUM
+Africa	HUM
+in	HUM
+1994	HUM
+?	HUM
+
+What	NUM
+is	NUM
+the	NUM
+population	NUM
+of	NUM
+China	NUM
+?	NUM
+
+When	NUM
+was	NUM
+Rosa	NUM
+Parks	NUM
+born	NUM
+?	NUM
+
+Why	DESC
+is	DESC
+a	DESC
+ladybug	DESC
+helpful	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+amoxicillin	DESC
+?	DESC
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+female	HUM
+United	HUM
+States	HUM
+Representative	HUM
+?	HUM
+
+What	LOC
+are	LOC
+xerophytes	LOC
+?	LOC
+
+What	LOC
+country	LOC
+did	LOC
+Ponce	LOC
+de	ENTY
+Leon	ENTY
+come	ENTY
+from	ENTY
+?	LOC
+
+The	HUM
+U.S.	HUM
+Department	HUM
+of	HUM
+Treasury	HUM
+first	HUM
+issued	NUM
+paper	HUM
+currency	HUM
+for	HUM
+the	HUM
+U.S.	HUM
+during	NUM
+which	NUM
+war	NUM
+?	NUM
+
+What	DESC
+is	DESC
+desktop	DESC
+publishing	DESC
+?	ENTY
+
+What	NUM
+is	NUM
+the	NUM
+temperature	NUM
+of	NUM
+the	NUM
+sun	NUM
+'s	NUM
+surface	NUM
+?	NUM
+
+What	NUM
+year	NUM
+did	NUM
+Canada	NUM
+join	NUM
+the	NUM
+United	NUM
+Nations	NUM
+?	NUM
+
+What	HUM
+is	HUM
+the	HUM
+oldest	HUM
+university	HUM
+in	HUM
+the	HUM
+US	HUM
+?	HUM
+
+Where	LOC
+is	LOC
+Prince	LOC
+Edward	HUM
+Island	HUM
+?	HUM
+
+Mercury	HUM
+,	HUM
+what	HUM
+year	NUM
+was	NUM
+it	NUM
+discovered	HUM
+?	HUM
+
+What	DESC
+is	DESC
+cryogenics	DESC
+?	DESC
+
+What	ENTY
+are	ENTY
+coral	DESC
+reefs	DESC
+?	DESC
+
+What	HUM
+is	HUM
+the	HUM
+longest	HUM
+major	HUM
+league	HUM
+baseball-winning	HUM
+streak	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+neurology	ENTY
+?	ENTY
+
+Who	HUM
+invented	HUM
+the	HUM
+calculator	HUM
+?	ENTY
+
+How	DESC
+do	DESC
+you	DESC
+measure	DESC
+earthquakes	DESC
+?	DESC
+
+Who	HUM
+is	HUM
+Duke	HUM
+Ellington	HUM
+?	HUM
+
+What	LOC
+county	LOC
+is	LOC
+Phoenix	LOC
+,	LOC
+AZ	LOC
+in	LOC
+?	LOC
+
+What	ENTY
+is	DESC
+a	DESC
+micron	DESC
+?	ENTY
+
+The	NUM
+sun	NUM
+'s	NUM
+core	NUM
+,	NUM
+what	NUM
+is	NUM
+the	NUM
+temperature	DESC
+?	NUM
+
+What	ENTY
+is	DESC
+the	LOC
+Ohio	LOC
+state	LOC
+bird	LOC
+?	LOC
+
+When	NUM
+were	NUM
+William	NUM
+Shakespeare	NUM
+'s	NUM
+twins	NUM
+born	NUM
+?	NUM
+
+What	ENTY
+is	LOC
+the	LOC
+highest	LOC
+dam	LOC
+in	LOC
+the	ENTY
+U.S.	ENTY
+?	ENTY
+
+What	ENTY
+color	ENTY
+is	ENTY
+a	ENTY
+poison	ENTY
+arrow	ENTY
+frog	ENTY
+?	ENTY
+
+What	NUM
+is	NUM
+acupuncture	NUM
+?	NUM
+
+What	NUM
+is	NUM
+the	NUM
+length	NUM
+of	NUM
+the	NUM
+coastline	NUM
+of	NUM
+the	NUM
+state	NUM
+of	NUM
+Alaska	LOC
+?	NUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	ENTY
+of	ENTY
+Neil	HUM
+Armstrong	HUM
+'s	ENTY
+wife	ENTY
+?	ENTY
+
+What	DESC
+is	ENTY
+Hawaii	LOC
+'s	LOC
+state	LOC
+flower	LOC
+?	LOC
+
+Who	HUM
+won	HUM
+Ms.	HUM
+American	HUM
+in	HUM
+1989	HUM
+?	HUM
+
+When	NUM
+did	NUM
+the	NUM
+Hindenberg	NUM
+crash	NUM
+?	NUM
+
+What	ENTY
+mineral	ENTY
+helps	ENTY
+prevent	DESC
+osteoporosis	DESC
+?	DESC
+
+What	NUM
+was	NUM
+the	NUM
+last	NUM
+year	NUM
+that	NUM
+the	NUM
+Chicago	HUM
+Cubs	HUM
+won	HUM
+the	HUM
+World	HUM
+Series	NUM
+?	NUM
+
+Where	LOC
+is	LOC
+Perth	LOC
+?	LOC
+
+What	NUM
+year	NUM
+did	NUM
+WWII	NUM
+begin	NUM
+?	NUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+diameter	ENTY
+of	ENTY
+a	ENTY
+golf	ENTY
+ball	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+an	DESC
+eclipse	DESC
+?	DESC
+
+Who	HUM
+discovered	HUM
+America	HUM
+?	HUM
+
+What	NUM
+is	NUM
+the	NUM
+earth	NUM
+'s	NUM
+diameter	ENTY
+?	NUM
+
+Which	HUM
+president	HUM
+was	HUM
+unmarried	HUM
+?	HUM
+
+How	NUM
+wide	NUM
+is	NUM
+the	NUM
+Milky	DESC
+Way	DESC
+galaxy	DESC
+?	NUM
+
+During	NUM
+which	NUM
+season	NUM
+do	NUM
+most	NUM
+thunderstorms	NUM
+occur	NUM
+?	NUM
+
+What	DESC
+is	DESC
+Wimbledon	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	DESC
+gestation	NUM
+period	ENTY
+for	ENTY
+a	ENTY
+cat	ENTY
+?	DESC
+
+How	NUM
+far	NUM
+is	NUM
+a	NUM
+nautical	NUM
+mile	NUM
+?	NUM
+
+Who	HUM
+was	HUM
+the	HUM
+abolitionist	HUM
+who	HUM
+led	HUM
+the	HUM
+raid	HUM
+on	HUM
+Harper	HUM
+'s	HUM
+Ferry	HUM
+in	HUM
+1859	HUM
+?	HUM
+
+What	NUM
+does	NUM
+target	NUM
+heart	NUM
+rate	NUM
+mean	NUM
+?	NUM
+
+What	ENTY
+was	ENTY
+the	HUM
+first	HUM
+satellite	HUM
+to	ENTY
+go	ENTY
+into	ENTY
+space	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+foreclosure	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+major	ENTY
+fault	ENTY
+line	ENTY
+near	ENTY
+Kentucky	ENTY
+?	NUM
+
+Where	LOC
+is	LOC
+the	LOC
+Holland	LOC
+Tunnel	LOC
+?	HUM
+
+Who	HUM
+wrote	HUM
+the	HUM
+hymn	HUM
+``	HUM
+Amazing	HUM
+Grace	HUM
+''	HUM
+?	HUM
+
+What	ENTY
+position	ENTY
+did	ENTY
+Willie	ENTY
+Davis	ENTY
+play	HUM
+in	HUM
+baseball	HUM
+?	HUM
+
+What	ENTY
+are	ENTY
+platelets	DESC
+?	ENTY
+
+What	DESC
+is	DESC
+severance	DESC
+pay	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	ENTY
+of	ENTY
+Roy	ENTY
+Roger	ENTY
+'s	ENTY
+dog	ENTY
+?	ENTY
+
+Where	LOC
+are	LOC
+the	LOC
+National	HUM
+Archives	HUM
+?	HUM
+
+What	DESC
+is	DESC
+a	DESC
+baby	ENTY
+turkey	ENTY
+called	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+poliomyelitis	DESC
+?	DESC
+
+What	DESC
+is	ENTY
+the	ENTY
+longest	ENTY
+bone	ENTY
+in	ENTY
+the	ENTY
+human	ENTY
+body	ENTY
+?	ENTY
+
+Who	HUM
+is	HUM
+a	HUM
+German	DESC
+philosopher	HUM
+?	HUM
+
+What	DESC
+were	DESC
+Christopher	DESC
+Columbus	DESC
+'	DESC
+three	DESC
+ships	DESC
+?	DESC
+
+What	DESC
+does	DESC
+Phi	DESC
+Beta	DESC
+Kappa	DESC
+mean	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+nicotine	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+another	ENTY
+name	ENTY
+for	ENTY
+vitamin	ENTY
+B1	ENTY
+?	ENTY
+
+Who	HUM
+discovered	HUM
+radium	HUM
+?	HUM
+
+What	ENTY
+are	ENTY
+sunspots	DESC
+?	ENTY
+
+When	NUM
+was	NUM
+Algeria	NUM
+colonized	NUM
+?	NUM
+
+What	HUM
+baseball	HUM
+team	HUM
+was	HUM
+the	HUM
+first	HUM
+to	HUM
+make	HUM
+numbers	DESC
+part	DESC
+of	HUM
+their	HUM
+uniform	DESC
+?	DESC
+
+What	LOC
+continent	LOC
+is	LOC
+Egypt	LOC
+on	LOC
+?	LOC
+
+What	LOC
+is	LOC
+the	LOC
+capital	LOC
+of	LOC
+Mongolia	LOC
+?	LOC
+
+What	ENTY
+is	DESC
+nanotechnology	DESC
+?	DESC
+
+In	ENTY
+the	ENTY
+late	ENTY
+1700	HUM
+'s	ENTY
+British	NUM
+convicts	ENTY
+were	ENTY
+used	ENTY
+to	ENTY
+populate	ENTY
+which	ENTY
+colony	ENTY
+?	ENTY
+
+What	LOC
+state	LOC
+is	LOC
+the	LOC
+geographic	LOC
+center	LOC
+of	LOC
+the	LOC
+lower	LOC
+48	LOC
+states	LOC
+?	LOC
+
+What	DESC
+is	DESC
+an	DESC
+obtuse	DESC
+angle	DESC
+?	ENTY
+
+What	ENTY
+are	DESC
+polymers	DESC
+?	DESC
+
+When	NUM
+is	NUM
+hurricane	NUM
+season	NUM
+in	NUM
+the	NUM
+Caribbean	DESC
+?	DESC
+
+Where	LOC
+is	LOC
+the	LOC
+volcano	LOC
+Mauna	LOC
+Loa	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+another	ENTY
+astronomic	ENTY
+term	ENTY
+for	ENTY
+the	ENTY
+Northern	ENTY
+Lights	ENTY
+?	ENTY
+
+What	ENTY
+peninsula	DESC
+is	LOC
+Spain	LOC
+part	LOC
+of	HUM
+?	HUM
+
+When	NUM
+was	NUM
+Lyndon	NUM
+B.	NUM
+Johnson	NUM
+born	NUM
+?	NUM
+
+What	LOC
+is	LOC
+acetaminophen	LOC
+?	LOC
+
+What	LOC
+state	LOC
+has	LOC
+the	LOC
+least	LOC
+amount	LOC
+of	LOC
+rain	NUM
+per	NUM
+year	NUM
+?	NUM
+
+Who	HUM
+founded	HUM
+American	HUM
+Red	HUM
+Cross	HUM
+?	HUM
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+Milwaukee	NUM
+Braves	NUM
+become	NUM
+the	NUM
+Atlanta	NUM
+Braves	NUM
+?	NUM
+
+How	NUM
+fast	NUM
+is	NUM
+alcohol	NUM
+absorbed	DESC
+?	DESC
+
+When	NUM
+is	NUM
+the	NUM
+summer	NUM
+solstice	NUM
+?	NUM
+
+What	DESC
+is	DESC
+supernova	DESC
+?	DESC
+
+Where	LOC
+is	LOC
+the	LOC
+Shawnee	LOC
+National	LOC
+Forest	LOC
+?	LOC
+
+What	LOC
+U.S.	LOC
+state	LOC
+'s	LOC
+motto	DESC
+is	HUM
+``	HUM
+Live	HUM
+free	HUM
+or	HUM
+Die	HUM
+''	HUM
+?	HUM
+
+Where	LOC
+is	LOC
+the	LOC
+Lourve	LOC
+?	LOC
+
+When	NUM
+was	NUM
+the	NUM
+first	NUM
+stamp	NUM
+issued	NUM
+?	NUM
+
+What	ENTY
+primary	ENTY
+colors	ENTY
+do	ENTY
+you	ENTY
+mix	ENTY
+to	ENTY
+make	ENTY
+orange	ENTY
+?	ENTY
+
+How	NUM
+far	NUM
+is	NUM
+Pluto	NUM
+from	DESC
+the	DESC
+sun	NUM
+?	NUM
+
+What	DESC
+body	DESC
+of	LOC
+water	LOC
+are	LOC
+the	DESC
+Canary	LOC
+Islands	DESC
+in	LOC
+?	LOC
+
+What	ENTY
+is	DESC
+neuropathy	DESC
+?	DESC
+
+Where	LOC
+is	LOC
+the	LOC
+Euphrates	LOC
+River	LOC
+?	LOC
+
+What	DESC
+is	DESC
+cryptography	DESC
+?	DESC
+
+What	DESC
+is	DESC
+natural	DESC
+gas	DESC
+composed	DESC
+of	DESC
+?	DESC
+
+Who	HUM
+is	HUM
+the	HUM
+Prime	HUM
+Minister	HUM
+of	HUM
+Canada	HUM
+?	HUM
+
+What	ENTY
+French	HUM
+ruler	ENTY
+was	ENTY
+defeated	ENTY
+at	ENTY
+the	ENTY
+battle	ENTY
+of	ENTY
+Waterloo	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+leukemia	DESC
+?	DESC
+
+Where	LOC
+did	LOC
+Howard	LOC
+Hughes	HUM
+die	LOC
+?	LOC
+
+What	ENTY
+is	ENTY
+the	ENTY
+birthstone	ABBR
+for	ENTY
+June	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	DESC
+sales	DESC
+tax	ENTY
+in	ENTY
+Minnesota	DESC
+?	ENTY
+
+What	HUM
+is	HUM
+the	HUM
+distance	HUM
+in	HUM
+miles	HUM
+from	HUM
+the	HUM
+earth	HUM
+to	HUM
+the	HUM
+sun	HUM
+?	HUM
+
+What	NUM
+is	NUM
+the	NUM
+average	NUM
+life	NUM
+span	NUM
+for	NUM
+a	ENTY
+chicken	NUM
+?	NUM
+
+When	NUM
+was	NUM
+the	NUM
+first	NUM
+Wal-Mart	NUM
+store	NUM
+opened	NUM
+?	NUM
+
+What	DESC
+is	DESC
+relative	DESC
+humidity	DESC
+?	DESC
+
+What	LOC
+city	LOC
+has	LOC
+the	LOC
+zip	LOC
+code	LOC
+of	ENTY
+35824	LOC
+?	LOC
+
+What	ENTY
+currency	ENTY
+is	ENTY
+used	ENTY
+in	DESC
+Algeria	ENTY
+?	ENTY
+
+Who	HUM
+invented	HUM
+the	HUM
+hula	HUM
+hoop	HUM
+?	HUM
+
+What	HUM
+was	HUM
+the	HUM
+most	HUM
+popular	ENTY
+toy	ENTY
+in	HUM
+1957	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+pastrami	ENTY
+made	ENTY
+of	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	ENTY
+of	ENTY
+the	ENTY
+satellite	ENTY
+that	HUM
+the	HUM
+Soviet	HUM
+Union	HUM
+sent	HUM
+into	ENTY
+space	ENTY
+in	ENTY
+1957	ENTY
+?	ENTY
+
+What	LOC
+city	LOC
+'s	LOC
+newspaper	LOC
+is	ENTY
+called	LOC
+``	LOC
+The	HUM
+Enquirer	HUM
+''	HUM
+?	HUM
+
+Who	HUM
+invented	HUM
+the	HUM
+slinky	HUM
+?	ENTY
+
+What	ENTY
+are	ENTY
+the	ENTY
+animals	ENTY
+that	ENTY
+don	ENTY
+'t	ENTY
+have	ENTY
+backbones	ENTY
+called	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	DESC
+melting	DESC
+point	DESC
+of	DESC
+copper	DESC
+?	ENTY
+
+Where	LOC
+is	LOC
+the	LOC
+volcano	LOC
+Olympus	LOC
+Mons	LOC
+located	LOC
+?	LOC
+
+Who	HUM
+was	HUM
+the	HUM
+23rd	HUM
+president	HUM
+of	HUM
+the	HUM
+United	HUM
+States	HUM
+?	HUM
+
+What	LOC
+is	NUM
+the	NUM
+average	NUM
+body	NUM
+temperature	NUM
+?	DESC
+
+What	DESC
+does	DESC
+a	DESC
+defibrillator	DESC
+do	DESC
+?	DESC
+
+What	DESC
+is	DESC
+the	DESC
+effect	DESC
+of	DESC
+acid	DESC
+rain	DESC
+?	DESC
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+United	NUM
+States	NUM
+abolish	NUM
+the	NUM
+draft	NUM
+?	NUM
+
+How	NUM
+fast	NUM
+is	NUM
+the	NUM
+speed	NUM
+of	NUM
+light	DESC
+?	NUM
+
+What	LOC
+province	LOC
+is	LOC
+Montreal	LOC
+in	LOC
+?	LOC
+
+What	HUM
+New	HUM
+York	HUM
+City	HUM
+structure	HUM
+is	HUM
+also	HUM
+known	HUM
+as	HUM
+the	HUM
+Twin	HUM
+Towers	HUM
+?	HUM
+
+What	DESC
+is	DESC
+fungus	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+most	ENTY
+frequently	ENTY
+spoken	ENTY
+language	ENTY
+in	ENTY
+the	ENTY
+Netherlands	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+sodium	DESC
+chloride	DESC
+?	ENTY
+
+What	ENTY
+are	ENTY
+the	ENTY
+spots	ENTY
+on	ENTY
+dominoes	ENTY
+called	ENTY
+?	ENTY
+
+How	NUM
+many	NUM
+pounds	NUM
+in	NUM
+a	NUM
+ton	NUM
+?	NUM
+
+What	DESC
+is	DESC
+influenza	DESC
+?	DESC
+
+What	DESC
+is	DESC
+ozone	DESC
+depletion	DESC
+?	ENTY
+
+What	NUM
+year	NUM
+was	NUM
+the	NUM
+Mona	HUM
+Lisa	HUM
+painted	HUM
+?	HUM
+
+What	DESC
+does	DESC
+``	DESC
+Sitting	DESC
+Shiva	DESC
+''	DESC
+mean	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+electrical	ENTY
+output	ENTY
+in	ENTY
+Madrid	ENTY
+,	ENTY
+Spain	ENTY
+?	ENTY
+
+Which	LOC
+mountain	LOC
+range	LOC
+in	LOC
+North	LOC
+America	LOC
+stretches	LOC
+from	LOC
+Maine	LOC
+to	LOC
+Georgia	LOC
+?	LOC
+
+What	DESC
+is	DESC
+plastic	DESC
+made	DESC
+of	DESC
+?	DESC
+
+What	NUM
+is	NUM
+the	NUM
+population	NUM
+of	NUM
+Nigeria	NUM
+?	NUM
+
+What	ENTY
+does	ENTY
+your	DESC
+spleen	DESC
+do	DESC
+?	DESC
+
+Where	LOC
+is	LOC
+the	LOC
+Grand	LOC
+Canyon	LOC
+?	LOC
+
+Who	HUM
+invented	HUM
+the	HUM
+telephone	HUM
+?	HUM
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+U.S.	NUM
+buy	HUM
+Alaska	LOC
+?	HUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	ENTY
+of	HUM
+the	HUM
+leader	HUM
+of	HUM
+Ireland	HUM
+?	HUM
+
+What	DESC
+is	DESC
+phenylalanine	DESC
+?	DESC
+
+How	NUM
+many	NUM
+gallons	NUM
+of	NUM
+water	NUM
+are	NUM
+there	NUM
+in	NUM
+a	NUM
+cubic	NUM
+foot	NUM
+?	NUM
+
+What	DESC
+are	ENTY
+the	ENTY
+two	ENTY
+houses	HUM
+of	HUM
+the	HUM
+Legislative	DESC
+branch	DESC
+?	DESC
+
+What	DESC
+is	DESC
+sonar	DESC
+?	DESC
+
+In	ENTY
+Poland	NUM
+,	ENTY
+where	ENTY
+do	ENTY
+most	LOC
+people	LOC
+live	LOC
+?	NUM
+
+What	LOC
+is	DESC
+phosphorus	DESC
+?	LOC
+
+What	LOC
+is	LOC
+the	LOC
+location	LOC
+of	ENTY
+the	ENTY
+Sea	ENTY
+of	LOC
+Tranquility	LOC
+?	LOC
+
+How	NUM
+fast	NUM
+is	DESC
+sound	HUM
+?	LOC
+
+What	LOC
+French	LOC
+province	LOC
+is	DESC
+cognac	LOC
+produced	LOC
+in	LOC
+?	DESC
+
+What	DESC
+is	ENTY
+Valentine	DESC
+'s	DESC
+Day	HUM
+?	HUM
+
+What	DESC
+causes	DESC
+gray	DESC
+hair	DESC
+?	DESC
+
+What	DESC
+is	DESC
+hypertension	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+bandwidth	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+longest	ENTY
+suspension	ENTY
+bridge	ENTY
+in	ENTY
+the	ENTY
+U.S.	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+a	DESC
+parasite	DESC
+?	DESC
+
+What	DESC
+is	DESC
+home	DESC
+equity	DESC
+?	DESC
+
+What	DESC
+do	DESC
+meteorologists	DESC
+do	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+criterion	ABBR
+for	ENTY
+being	ENTY
+legally	ENTY
+blind	ENTY
+?	ENTY
+
+Who	HUM
+is	HUM
+the	HUM
+tallest	HUM
+man	HUM
+in	HUM
+the	HUM
+world	HUM
+?	HUM
+
+What	LOC
+are	LOC
+the	LOC
+twin	LOC
+cities	LOC
+?	LOC
+
+What	ENTY
+did	ENTY
+Edward	ENTY
+Binney	ENTY
+and	HUM
+Howard	ENTY
+Smith	ENTY
+invent	ENTY
+in	ENTY
+1903	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+statue	ENTY
+of	ENTY
+liberty	ENTY
+made	ENTY
+of	ENTY
+?	ENTY
+
+What	LOC
+is	LOC
+pilates	LOC
+?	LOC
+
+What	LOC
+planet	LOC
+is	LOC
+known	LOC
+as	LOC
+the	HUM
+``	HUM
+red	ENTY
+''	LOC
+planet	LOC
+?	LOC
+
+What	ENTY
+is	ENTY
+the	ENTY
+depth	ENTY
+of	ENTY
+the	HUM
+Nile	ENTY
+river	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	DESC
+colorful	ENTY
+Korean	ENTY
+traditional	ENTY
+dress	ENTY
+called	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+Mardi	DESC
+Gras	DESC
+?	ENTY
+
+Mexican	ENTY
+pesos	NUM
+are	NUM
+worth	NUM
+what	NUM
+in	NUM
+U.S.	ENTY
+dollars	ENTY
+?	ENTY
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+African	HUM
+American	HUM
+to	HUM
+play	HUM
+for	HUM
+the	HUM
+Brooklyn	HUM
+Dodgers	HUM
+?	HUM
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+Prime	HUM
+Minister	HUM
+of	HUM
+Canada	HUM
+?	HUM
+
+How	NUM
+many	NUM
+Admirals	NUM
+are	NUM
+there	NUM
+in	NUM
+the	NUM
+U.S.	NUM
+Navy	DESC
+?	DESC
+
+What	ENTY
+instrument	ENTY
+did	ENTY
+Glenn	ENTY
+Miller	ENTY
+play	ENTY
+?	ENTY
+
+How	NUM
+old	NUM
+was	NUM
+Joan	NUM
+of	HUM
+Arc	HUM
+when	HUM
+she	HUM
+died	NUM
+?	NUM
+
+What	ENTY
+does	ENTY
+the	ENTY
+word	DESC
+fortnight	DESC
+mean	DESC
+?	DESC
+
+What	DESC
+is	DESC
+dianetics	DESC
+?	DESC
+
+What	LOC
+is	LOC
+the	LOC
+capital	LOC
+of	LOC
+Ethiopia	LOC
+?	LOC
+
+For	NUM
+how	NUM
+long	NUM
+is	NUM
+an	DESC
+elephant	DESC
+pregnant	DESC
+?	DESC
+
+How	NUM
+did	DESC
+Janice	DESC
+Joplin	NUM
+die	NUM
+?	NUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+primary	ENTY
+language	ENTY
+in	ENTY
+Iceland	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+the	DESC
+difference	DESC
+between	DESC
+AM	DESC
+radio	DESC
+stations	DESC
+and	DESC
+FM	DESC
+radio	DESC
+stations	DESC
+?	DESC
+
+What	HUM
+is	DESC
+osteoporosis	DESC
+?	DESC
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+woman	HUM
+governor	HUM
+in	HUM
+the	HUM
+U.S.	HUM
+?	HUM
+
+What	DESC
+is	DESC
+peyote	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+esophagus	ABBR
+used	ABBR
+for	ENTY
+?	ABBR
+
+What	DESC
+is	DESC
+viscosity	DESC
+?	DESC
+
+What	NUM
+year	NUM
+did	NUM
+Oklahoma	NUM
+become	NUM
+a	NUM
+state	NUM
+?	LOC
+
+What	ABBR
+is	ABBR
+the	ABBR
+abbreviation	ABBR
+for	ABBR
+Texas	ABBR
+?	ABBR
+
+What	DESC
+is	DESC
+a	ENTY
+mirror	ENTY
+made	ENTY
+out	DESC
+of	ENTY
+?	DESC
+
+Where	LOC
+on	LOC
+the	LOC
+body	LOC
+is	LOC
+a	LOC
+mortarboard	LOC
+worn	LOC
+?	LOC
+
+What	HUM
+was	ENTY
+J.F.K.	ENTY
+'s	HUM
+wife	HUM
+'s	HUM
+name	ENTY
+?	HUM
+
+What	ABBR
+does	ABBR
+I.V.	ABBR
+stand	ABBR
+for	ABBR
+?	ABBR
+
+What	ENTY
+is	ENTY
+the	DESC
+chunnel	DESC
+?	ENTY
+
+Where	LOC
+is	LOC
+Hitler	LOC
+buried	LOC
+?	LOC
+
+What	ENTY
+are	ENTY
+antacids	DESC
+?	ENTY
+
+What	DESC
+is	DESC
+pulmonary	DESC
+fibrosis	DESC
+?	DESC
+
+What	ENTY
+are	DESC
+Quaaludes	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+naproxen	DESC
+?	DESC
+
+What	DESC
+is	DESC
+strep	DESC
+throat	DESC
+?	DESC
+
+What	LOC
+is	LOC
+the	LOC
+largest	LOC
+city	LOC
+in	LOC
+the	LOC
+U.S.	LOC
+?	LOC
+
+What	DESC
+is	DESC
+foot	DESC
+and	ENTY
+mouth	ENTY
+disease	ENTY
+?	ENTY
+
+What	NUM
+is	NUM
+the	NUM
+life	NUM
+expectancy	NUM
+of	NUM
+a	NUM
+dollar	NUM
+bill	NUM
+?	NUM
+
+What	ENTY
+do	ENTY
+you	ENTY
+call	ENTY
+a	ENTY
+professional	ENTY
+map	ENTY
+drawer	ENTY
+?	ENTY
+
+What	ENTY
+are	DESC
+Aborigines	DESC
+?	DESC
+
+What	DESC
+is	DESC
+hybridization	DESC
+?	DESC
+
+What	ENTY
+color	ENTY
+is	ENTY
+indigo	ENTY
+?	ENTY
+
+How	NUM
+old	DESC
+do	DESC
+you	DESC
+have	DESC
+to	DESC
+be	NUM
+in	NUM
+order	NUM
+to	NUM
+rent	NUM
+a	DESC
+car	NUM
+in	DESC
+Italy	NUM
+?	NUM
+
+What	DESC
+does	DESC
+a	DESC
+barometer	ENTY
+measure	ENTY
+?	ENTY
+
+What	ENTY
+color	ENTY
+is	ENTY
+a	ENTY
+giraffe	ENTY
+'s	ENTY
+tongue	ENTY
+?	ENTY
+
+What	ABBR
+does	ABBR
+USPS	ABBR
+stand	ABBR
+for	ABBR
+?	ABBR
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+NFL	NUM
+go	NUM
+on	NUM
+strike	NUM
+?	NUM
+
+What	DESC
+is	DESC
+solar	DESC
+wind	DESC
+?	ENTY
+
+What	NUM
+date	NUM
+did	NUM
+Neil	NUM
+Armstrong	NUM
+land	NUM
+on	NUM
+the	NUM
+moon	NUM
+?	NUM
+
+When	NUM
+was	NUM
+Hiroshima	NUM
+bombed	NUM
+?	NUM
+
+Where	LOC
+is	LOC
+the	LOC
+Savannah	LOC
+River	LOC
+?	LOC
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+woman	HUM
+killed	HUM
+in	HUM
+the	HUM
+Vietnam	HUM
+War	HUM
+?	HUM
+
+What	LOC
+planet	LOC
+has	LOC
+the	LOC
+strongest	LOC
+magnetic	LOC
+field	LOC
+of	LOC
+all	LOC
+the	LOC
+planets	LOC
+?	LOC
+
+Who	HUM
+is	HUM
+the	HUM
+governor	HUM
+of	HUM
+Alaska	HUM
+?	HUM
+
+What	NUM
+year	NUM
+did	NUM
+Mussolini	NUM
+seize	NUM
+power	NUM
+in	NUM
+Italy	NUM
+?	NUM
+
+What	LOC
+is	LOC
+the	LOC
+capital	LOC
+of	LOC
+Persia	LOC
+?	LOC
+
+Where	LOC
+is	LOC
+the	LOC
+Eiffel	LOC
+Tower	LOC
+?	LOC
+
+How	NUM
+many	NUM
+hearts	NUM
+does	NUM
+an	NUM
+octopus	NUM
+have	NUM
+?	NUM
+
+What	DESC
+is	DESC
+pneumonia	DESC
+?	DESC
+
+What	LOC
+is	LOC
+the	LOC
+deepest	LOC
+lake	LOC
+in	LOC
+the	LOC
+US	LOC
+?	LOC
+
+What	ENTY
+is	ENTY
+a	ENTY
+fuel	ENTY
+cell	ENTY
+?	ENTY
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+U.S.	HUM
+president	HUM
+to	HUM
+appear	HUM
+on	HUM
+TV	HUM
+?	HUM
+
+Where	LOC
+is	LOC
+the	LOC
+Little	LOC
+League	LOC
+Museum	LOC
+?	HUM
+
+What	ENTY
+are	ENTY
+the	ENTY
+two	ENTY
+types	ENTY
+of	ENTY
+twins	ENTY
+?	ENTY
+
+What	LOC
+is	LOC
+the	LOC
+brightest	LOC
+star	LOC
+?	LOC
+
+What	DESC
+is	DESC
+diabetes	DESC
+?	DESC
+
+When	NUM
+was	NUM
+President	NUM
+Kennedy	HUM
+shot	HUM
+?	HUM
+
+What	DESC
+is	DESC
+TMJ	DESC
+?	DESC
+
+What	ENTY
+color	ENTY
+is	ENTY
+yak	ENTY
+milk	ENTY
+?	ENTY
+
+What	NUM
+date	NUM
+was	NUM
+Dwight	NUM
+D.	NUM
+Eisenhower	NUM
+born	NUM
+?	NUM
+
+What	ENTY
+does	ENTY
+the	ENTY
+technical	ENTY
+term	DESC
+ISDN	DESC
+mean	DESC
+?	DESC
+
+Why	DESC
+is	DESC
+the	DESC
+sun	DESC
+yellow	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	NUM
+conversion	NUM
+rate	ENTY
+between	DESC
+dollars	DESC
+and	DESC
+pounds	ENTY
+?	ENTY
+
+When	NUM
+was	NUM
+Abraham	NUM
+Lincoln	NUM
+born	NUM
+?	NUM
+
+What	ENTY
+is	ENTY
+the	DESC
+Milky	DESC
+Way	ENTY
+?	DESC
+
+What	DESC
+is	DESC
+mold	DESC
+?	DESC
+
+What	NUM
+year	NUM
+was	NUM
+Mozart	NUM
+born	NUM
+?	NUM
+
+What	HUM
+is	HUM
+a	HUM
+group	HUM
+of	HUM
+frogs	HUM
+called	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	HUM
+of	ENTY
+William	ENTY
+Penn	ENTY
+'s	ENTY
+ship	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	DESC
+melting	DESC
+point	DESC
+of	DESC
+gold	DESC
+?	HUM
+
+What	ENTY
+is	ENTY
+the	DESC
+street	LOC
+address	LOC
+of	LOC
+the	HUM
+White	HUM
+House	HUM
+?	HUM
+
+What	DESC
+is	DESC
+semolina	DESC
+?	NUM
+
+What	ENTY
+fruit	DESC
+is	NUM
+Melba	ENTY
+sauce	ENTY
+made	ENTY
+from	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+Ursa	DESC
+Major	DESC
+?	ENTY
+
+What	NUM
+is	NUM
+the	NUM
+percentage	NUM
+of	NUM
+water	NUM
+content	NUM
+in	ENTY
+the	ENTY
+human	NUM
+body	NUM
+?	NUM
+
+How	NUM
+much	NUM
+does	DESC
+water	DESC
+weigh	DESC
+?	DESC
+
+What	HUM
+was	HUM
+President	HUM
+Lyndon	HUM
+Johnson	HUM
+'s	HUM
+reform	HUM
+program	HUM
+called	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+the	DESC
+murder	NUM
+rate	ENTY
+in	ENTY
+Windsor	NUM
+,	ENTY
+Ontario	ENTY
+?	ENTY
+
+Who	HUM
+is	HUM
+the	HUM
+only	HUM
+president	HUM
+to	HUM
+serve	HUM
+2	HUM
+non-consecutive	HUM
+terms	HUM
+?	HUM
+
+What	NUM
+is	NUM
+the	NUM
+population	NUM
+of	NUM
+Australia	NUM
+?	NUM
+
+Who	HUM
+painted	HUM
+the	HUM
+ceiling	HUM
+of	HUM
+the	HUM
+Sistine	HUM
+Chapel	HUM
+?	HUM
+
+Name	HUM
+a	HUM
+stimulant	ENTY
+.	ENTY
+
+What	DESC
+is	DESC
+the	DESC
+effect	DESC
+of	DESC
+volcanoes	DESC
+on	DESC
+the	DESC
+climate	DESC
+?	DESC
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+Andy	HUM
+Griffith	HUM
+show	NUM
+begin	NUM
+?	NUM
+
+What	DESC
+is	DESC
+acid	DESC
+rain	DESC
+?	DESC
+
+What	NUM
+is	NUM
+the	NUM
+date	NUM
+of	NUM
+Mexico	NUM
+'s	NUM
+independence	NUM
+?	NUM
+
+What	LOC
+is	LOC
+the	LOC
+location	ENTY
+of	ENTY
+Lake	ENTY
+Champlain	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	LOC
+Illinois	LOC
+state	LOC
+flower	LOC
+?	LOC
+
+What	DESC
+is	ENTY
+Maryland	LOC
+'s	LOC
+state	LOC
+bird	LOC
+?	LOC
+
+What	DESC
+is	DESC
+quicksilver	DESC
+?	DESC
+
+Who	HUM
+wrote	HUM
+``	HUM
+The	HUM
+Divine	HUM
+Comedy	HUM
+''	HUM
+?	HUM
+
+What	DESC
+is	NUM
+the	NUM
+speed	NUM
+of	DESC
+light	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+width	ENTY
+of	HUM
+a	ENTY
+football	ENTY
+field	DESC
+?	LOC
+
+Why	DESC
+in	DESC
+tennis	DESC
+are	ENTY
+zero	ENTY
+points	ENTY
+called	ENTY
+love	ENTY
+?	ENTY
+
+What	ENTY
+kind	ENTY
+of	ENTY
+dog	ENTY
+was	ENTY
+Toto	ENTY
+in	ENTY
+the	ENTY
+Wizard	ENTY
+of	ENTY
+Oz	ENTY
+?	ENTY
+
+What	ENTY
+is	DESC
+a	DESC
+thyroid	DESC
+?	DESC
+
+What	DESC
+does	DESC
+ciao	DESC
+mean	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+only	HUM
+artery	ENTY
+that	ENTY
+carries	ENTY
+blue	ENTY
+blood	ENTY
+from	ENTY
+the	DESC
+heart	HUM
+to	ENTY
+the	DESC
+lungs	ENTY
+?	ENTY
+
+How	NUM
+often	DESC
+does	DESC
+Old	NUM
+Faithful	NUM
+erupt	NUM
+at	ABBR
+Yellowstone	DESC
+National	DESC
+Park	DESC
+?	DESC
+
+What	DESC
+is	DESC
+acetic	DESC
+acid	DESC
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+elevation	DESC
+of	DESC
+St.	DESC
+Louis	DESC
+,	HUM
+MO	HUM
+?	ENTY
+
+What	ENTY
+color	ENTY
+does	ENTY
+litmus	ENTY
+paper	ENTY
+turn	ENTY
+when	ENTY
+it	ENTY
+comes	ENTY
+into	ENTY
+contact	ENTY
+with	ENTY
+a	ENTY
+strong	ENTY
+acid	ENTY
+?	ENTY
+
+What	ENTY
+are	ENTY
+the	ENTY
+colors	ENTY
+of	ENTY
+the	ENTY
+German	ENTY
+flag	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+Moulin	DESC
+Rouge	ENTY
+?	ENTY
+
+What	LOC
+soviet	LOC
+seaport	LOC
+is	LOC
+on	LOC
+the	LOC
+Black	LOC
+Sea	LOC
+?	LOC
+
+What	NUM
+is	NUM
+the	NUM
+atomic	NUM
+weight	NUM
+of	NUM
+silver	NUM
+?	NUM
+
+What	DESC
+currency	DESC
+do	DESC
+they	ENTY
+use	DESC
+in	DESC
+Brazil	ENTY
+?	ENTY
+
+What	ENTY
+are	ENTY
+pathogens	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+mad	ENTY
+cow	ENTY
+disease	ENTY
+?	ENTY
+
+Name	HUM
+a	ENTY
+food	HUM
+high	ENTY
+in	HUM
+zinc	HUM
+.	ENTY
+
+When	NUM
+did	NUM
+North	NUM
+Carolina	NUM
+enter	NUM
+the	NUM
+union	NUM
+?	NUM
+
+Where	LOC
+do	LOC
+apple	LOC
+snails	LOC
+live	LOC
+?	LOC
+
+What	ENTY
+are	DESC
+ethics	DESC
+?	ENTY
+
+What	ABBR
+does	ABBR
+CPR	ABBR
+stand	ABBR
+for	ABBR
+?	ABBR
+
+What	DESC
+is	DESC
+an	DESC
+annuity	DESC
+?	DESC
+
+Who	HUM
+killed	HUM
+John	HUM
+F.	DESC
+Kennedy	DESC
+?	DESC
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+vice	HUM
+president	HUM
+of	HUM
+the	HUM
+U.S.	HUM
+?	HUM
+
+What	ENTY
+birthstone	DESC
+is	DESC
+turquoise	DESC
+?	DESC
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+US	HUM
+President	HUM
+to	HUM
+ride	HUM
+in	HUM
+an	DESC
+automobile	HUM
+to	HUM
+his	HUM
+inauguration	HUM
+?	HUM
+
+How	NUM
+old	NUM
+was	NUM
+the	HUM
+youngest	HUM
+president	HUM
+of	HUM
+the	HUM
+United	HUM
+States	HUM
+?	HUM
+
+When	NUM
+was	NUM
+Ulysses	NUM
+S.	NUM
+Grant	NUM
+born	NUM
+?	NUM
+
+What	DESC
+is	DESC
+Muscular	DESC
+Dystrophy	DESC
+?	ENTY
+
+Who	HUM
+lived	HUM
+in	HUM
+the	HUM
+Neuschwanstein	HUM
+castle	HUM
+?	HUM
+
+What	DESC
+is	DESC
+propylene	DESC
+glycol	DESC
+?	ENTY
+
+What	DESC
+is	DESC
+a	DESC
+panic	DESC
+disorder	DESC
+?	DESC
+
+Who	HUM
+invented	HUM
+the	HUM
+instant	HUM
+Polaroid	HUM
+camera	HUM
+?	HUM
+
+What	ENTY
+is	DESC
+a	DESC
+carcinogen	DESC
+?	DESC
+
+What	DESC
+is	DESC
+a	DESC
+baby	ENTY
+lion	ENTY
+called	ENTY
+?	ENTY
+
+What	DESC
+is	LOC
+the	LOC
+world	NUM
+'s	NUM
+population	NUM
+?	NUM
+
+What	DESC
+is	DESC
+nepotism	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+die-casting	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+myopia	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	DESC
+sales	DESC
+tax	NUM
+rate	ENTY
+in	HUM
+New	HUM
+York	HUM
+?	HUM
+
+Developing	LOC
+nations	LOC
+comprise	LOC
+what	NUM
+percentage	LOC
+of	LOC
+the	LOC
+world	LOC
+'s	LOC
+population	LOC
+?	LOC
+
+What	LOC
+is	LOC
+the	LOC
+fourth	LOC
+highest	LOC
+mountain	LOC
+in	LOC
+the	LOC
+world	LOC
+?	LOC
+
+What	HUM
+is	HUM
+Shakespeare	HUM
+'s	HUM
+nickname	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+heaviest	ENTY
+naturally	ENTY
+occurring	ENTY
+element	ENTY
+?	ENTY
+
+When	NUM
+is	NUM
+Father	NUM
+'s	NUM
+Day	NUM
+?	NUM
+
+What	ABBR
+does	ABBR
+the	ABBR
+acronym	ABBR
+NASA	ABBR
+stand	ABBR
+for	ABBR
+?	ABBR
+
+How	NUM
+long	NUM
+is	NUM
+the	NUM
+Columbia	NUM
+River	NUM
+in	NUM
+miles	NUM
+?	NUM
+
+What	LOC
+city	LOC
+'s	LOC
+newspaper	LOC
+is	ENTY
+called	LOC
+``	LOC
+The	HUM
+Star	HUM
+''	HUM
+?	HUM
+
+What	DESC
+is	DESC
+carbon	DESC
+dioxide	DESC
+?	ENTY
+
+Where	LOC
+is	LOC
+the	LOC
+Mason/Dixon	LOC
+line	LOC
+?	LOC
+
+When	NUM
+was	NUM
+the	NUM
+Boston	NUM
+tea	DESC
+party	DESC
+?	DESC
+
+What	DESC
+is	DESC
+metabolism	DESC
+?	DESC
+
+Which	HUM
+U.S.A.	HUM
+president	HUM
+appeared	HUM
+on	HUM
+``	HUM
+Laugh-In	HUM
+''	HUM
+?	HUM
+
+What	ENTY
+are	ENTY
+cigarettes	ENTY
+made	ENTY
+of	ENTY
+?	ENTY
+
+What	LOC
+is	LOC
+the	LOC
+capital	LOC
+of	LOC
+Zimbabwe	LOC
+?	LOC
+
+What	ABBR
+does	ABBR
+NASA	ABBR
+stand	ABBR
+for	ABBR
+?	ABBR
+
+What	LOC
+is	LOC
+the	LOC
+state	LOC
+flower	LOC
+of	LOC
+Michigan	LOC
+?	LOC
+
+What	ENTY
+are	DESC
+semiconductors	DESC
+?	ENTY
+
+What	HUM
+is	HUM
+nuclear	DESC
+power	HUM
+?	HUM
+
+What	DESC
+is	DESC
+a	DESC
+tsunami	DESC
+?	DESC
+
+Who	HUM
+is	HUM
+the	HUM
+congressman	LOC
+from	LOC
+state	LOC
+of	HUM
+Texas	HUM
+on	HUM
+the	HUM
+armed	HUM
+forces	HUM
+committee	HUM
+?	HUM
+
+Who	HUM
+was	HUM
+president	HUM
+in	HUM
+1913	HUM
+?	HUM
+
+When	NUM
+was	NUM
+the	NUM
+first	NUM
+kidney	NUM
+transplant	NUM
+?	DESC
+
+What	DESC
+are	DESC
+Canada	ENTY
+'s	LOC
+two	LOC
+territories	ENTY
+?	ENTY
+
+What	HUM
+was	HUM
+the	HUM
+name	HUM
+of	ENTY
+the	ENTY
+plane	HUM
+Lindbergh	ENTY
+flew	ENTY
+solo	HUM
+across	HUM
+the	HUM
+Atlantic	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+genocide	DESC
+?	DESC
+
+What	LOC
+continent	LOC
+is	DESC
+Argentina	LOC
+on	DESC
+?	DESC
+
+What	HUM
+monastery	ENTY
+was	ENTY
+raided	ENTY
+by	ENTY
+Vikings	ENTY
+in	ENTY
+the	HUM
+late	ENTY
+eighth	ENTY
+century	HUM
+?	ENTY
+
+What	DESC
+is	DESC
+an	DESC
+earthquake	DESC
+?	DESC
+
+Where	LOC
+is	LOC
+the	LOC
+tallest	LOC
+roller	LOC
+coaster	LOC
+located	LOC
+?	LOC
+
+What	ENTY
+are	ENTY
+enzymes	DESC
+?	ENTY
+
+Who	HUM
+discovered	HUM
+oxygen	HUM
+?	HUM
+
+What	ENTY
+is	DESC
+bangers	DESC
+and	DESC
+mash	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+name	ENTY
+given	ENTY
+to	ENTY
+the	HUM
+Tiger	ENTY
+at	ENTY
+Louisiana	ENTY
+State	ENTY
+University	ENTY
+?	NUM
+
+Where	LOC
+are	LOC
+the	LOC
+British	LOC
+crown	HUM
+jewels	HUM
+kept	HUM
+?	HUM
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+person	HUM
+to	HUM
+reach	HUM
+the	HUM
+North	HUM
+Pole	HUM
+?	HUM
+
+What	DESC
+is	DESC
+an	DESC
+ulcer	DESC
+?	DESC
+
+What	DESC
+is	DESC
+vertigo	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+the	DESC
+spirometer	DESC
+test	ENTY
+?	ENTY
+
+When	NUM
+is	NUM
+the	NUM
+official	NUM
+first	NUM
+day	NUM
+of	NUM
+summer	NUM
+?	NUM
+
+What	ABBR
+does	ABBR
+the	ABBR
+abbreviation	ABBR
+SOS	ABBR
+mean	ABBR
+?	DESC
+
+What	ENTY
+is	ENTY
+the	ENTY
+smallest	ENTY
+bird	ENTY
+in	ENTY
+Britain	ENTY
+?	ENTY
+
+Who	HUM
+invented	HUM
+Trivial	HUM
+Pursuit	HUM
+?	HUM
+
+What	ENTY
+gasses	ENTY
+are	ENTY
+in	ENTY
+the	ENTY
+troposphere	ENTY
+?	DESC
+
+Which	LOC
+country	LOC
+has	LOC
+the	LOC
+most	LOC
+water	LOC
+pollution	LOC
+?	LOC
+
+What	ENTY
+is	ENTY
+the	ENTY
+scientific	ENTY
+name	ENTY
+for	ENTY
+elephant	ENTY
+?	ENTY
+
+Who	HUM
+is	HUM
+the	HUM
+actress	HUM
+known	HUM
+for	HUM
+her	HUM
+role	HUM
+in	HUM
+the	HUM
+movie	HUM
+``	HUM
+Gypsy	HUM
+''	HUM
+?	HUM
+
+What	HUM
+breed	HUM
+of	ENTY
+hunting	ENTY
+dog	ENTY
+did	ENTY
+the	ENTY
+Beverly	HUM
+Hillbillies	HUM
+own	HUM
+?	HUM
+
+What	LOC
+is	LOC
+the	LOC
+rainiest	LOC
+place	LOC
+on	LOC
+Earth	LOC
+?	LOC
+
+Who	HUM
+was	HUM
+the	HUM
+first	HUM
+African	HUM
+American	HUM
+to	HUM
+win	HUM
+the	HUM
+Nobel	HUM
+Prize	HUM
+in	HUM
+literature	HUM
+?	HUM
+
+When	NUM
+is	NUM
+St.	NUM
+Patrick	NUM
+'s	NUM
+Day	NUM
+?	NUM
+
+What	ENTY
+was	ENTY
+FDR	ENTY
+'s	ENTY
+dog	ENTY
+'s	ENTY
+name	ENTY
+?	HUM
+
+What	ENTY
+colors	ENTY
+need	ENTY
+to	ENTY
+be	ENTY
+mixed	ENTY
+to	ENTY
+get	ENTY
+the	ENTY
+color	ENTY
+pink	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+most	ENTY
+popular	ENTY
+sport	ENTY
+in	ENTY
+Japan	ENTY
+?	ENTY
+
+What	ENTY
+is	ENTY
+the	ENTY
+active	ENTY
+ingredient	ENTY
+in	ENTY
+baking	ENTY
+soda	ENTY
+?	ENTY
+
+When	NUM
+was	NUM
+Thomas	NUM
+Jefferson	NUM
+born	NUM
+?	NUM
+
+How	DESC
+cold	DESC
+should	DESC
+a	NUM
+refrigerator	NUM
+be	NUM
+?	DESC
+
+When	NUM
+was	NUM
+the	NUM
+telephone	NUM
+invented	NUM
+?	NUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+most	ENTY
+common	ENTY
+eye	ENTY
+color	ENTY
+?	ENTY
+
+Where	LOC
+was	LOC
+the	LOC
+first	HUM
+golf	LOC
+course	HUM
+in	HUM
+the	LOC
+United	LOC
+States	LOC
+?	LOC
+
+What	DESC
+is	DESC
+schizophrenia	DESC
+?	DESC
+
+What	ENTY
+is	DESC
+angiotensin	DESC
+?	DESC
+
+What	ENTY
+did	ENTY
+Jesse	ENTY
+Jackson	NUM
+organize	LOC
+?	LOC
+
+What	HUM
+is	LOC
+New	HUM
+York	LOC
+'s	LOC
+state	LOC
+bird	LOC
+?	LOC
+
+What	HUM
+is	ABBR
+the	HUM
+National	HUM
+Park	HUM
+in	HUM
+Utah	HUM
+?	HUM
+
+What	DESC
+is	ENTY
+Susan	ENTY
+B.	HUM
+Anthony	NUM
+'s	NUM
+birthday	NUM
+?	NUM
+
+In	LOC
+which	LOC
+state	LOC
+would	LOC
+you	LOC
+find	LOC
+the	LOC
+Catskill	LOC
+Mountains	LOC
+?	LOC
+
+What	ENTY
+do	ENTY
+you	ENTY
+call	ENTY
+a	ENTY
+word	ENTY
+that	ENTY
+is	ENTY
+spelled	ENTY
+the	DESC
+same	ENTY
+backwards	ENTY
+and	DESC
+forwards	ENTY
+?	ENTY
+
+What	ENTY
+are	ENTY
+pediatricians	DESC
+?	ENTY
+
+What	HUM
+chain	HUM
+store	DESC
+is	HUM
+headquartered	HUM
+in	ENTY
+Bentonville	ENTY
+,	ENTY
+Arkansas	ENTY
+?	ENTY
+
+What	ENTY
+are	ENTY
+solar	DESC
+cells	DESC
+?	DESC
+
+What	ENTY
+is	ENTY
+compounded	DESC
+interest	DESC
+?	ENTY
+
+What	ENTY
+are	ENTY
+capers	DESC
+?	ENTY
+
+What	DESC
+is	DESC
+an	DESC
+antigen	DESC
+?	DESC
+
+What	ENTY
+currency	DESC
+does	ENTY
+Luxembourg	ENTY
+use	ENTY
+?	ENTY
+
+What	NUM
+is	NUM
+the	NUM
+population	NUM
+of	NUM
+Venezuela	NUM
+?	NUM
+
+What	ENTY
+type	ENTY
+of	ENTY
+polymer	ENTY
+is	ENTY
+used	ENTY
+for	ENTY
+bulletproof	ENTY
+vests	ENTY
+?	ENTY
+
+What	ENTY
+currency	DESC
+does	ENTY
+Argentina	ENTY
+use	ENTY
+?	ENTY
+
+What	ENTY
+is	DESC
+a	DESC
+thermometer	DESC
+?	DESC
+
+What	LOC
+Canadian	LOC
+city	LOC
+has	LOC
+the	LOC
+largest	LOC
+population	LOC
+?	LOC
+
+What	ENTY
+color	ENTY
+are	ENTY
+crickets	ENTY
+?	LOC
+
+Which	LOC
+country	LOC
+gave	LOC
+New	LOC
+York	HUM
+the	HUM
+Statue	HUM
+of	LOC
+Liberty	LOC
+?	LOC
+
+What	HUM
+was	HUM
+the	HUM
+name	HUM
+of	ENTY
+the	ENTY
+first	ENTY
+U.S.	ENTY
+satellite	ENTY
+sent	ENTY
+into	ENTY
+space	ENTY
+?	ENTY
+
+What	ENTY
+precious	ENTY
+stone	ENTY
+is	HUM
+a	DESC
+form	DESC
+of	ENTY
+pure	HUM
+carbon	ENTY
+?	ENTY
+
+What	ENTY
+kind	ENTY
+of	ENTY
+gas	ENTY
+is	ENTY
+in	ENTY
+a	ENTY
+fluorescent	ENTY
+bulb	ENTY
+?	ENTY
+
+What	DESC
+is	DESC
+rheumatoid	DESC
+arthritis	DESC
+?	DESC
+
+What	LOC
+river	LOC
+runs	LOC
+through	LOC
+Rowe	LOC
+,	LOC
+Italy	LOC
+?	LOC
+
+What	DESC
+is	DESC
+cerebral	DESC
+palsy	DESC
+?	DESC
+
+What	LOC
+city	LOC
+is	LOC
+also	LOC
+known	HUM
+as	HUM
+``	HUM
+The	HUM
+Gateway	HUM
+to	HUM
+the	HUM
+West	HUM
+''	HUM
+?	ENTY
+
+How	NUM
+far	NUM
+away	NUM
+is	NUM
+the	NUM
+moon	NUM
+?	NUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+source	ENTY
+of	ENTY
+natural	ENTY
+gas	ENTY
+?	ENTY
+
+In	ENTY
+what	NUM
+spacecraft	ENTY
+did	ENTY
+U.S.	NUM
+astronaut	NUM
+Alan	NUM
+Shepard	HUM
+make	NUM
+his	NUM
+historic	NUM
+1961	NUM
+flight	NUM
+?	ENTY
+
+What	DESC
+is	DESC
+pectin	DESC
+?	DESC
+
+What	DESC
+is	DESC
+bio-diversity	DESC
+?	DESC
+
+What	ENTY
+'s	ENTY
+the	ENTY
+easiest	ENTY
+way	ENTY
+to	ENTY
+remove	ENTY
+wallpaper	ENTY
+?	ENTY
+
+What	NUM
+year	NUM
+did	NUM
+the	NUM
+Titanic	NUM
+start	NUM
+on	NUM
+its	NUM
+journey	NUM
+?	NUM
+
+How	NUM
+much	NUM
+of	NUM
+an	NUM
+apple	DESC
+is	DESC
+water	DESC
+?	DESC
+
+Who	HUM
+was	HUM
+the	HUM
+22nd	HUM
+President	HUM
+of	HUM
+the	HUM
+US	HUM
+?	HUM
+
+What	ENTY
+is	ENTY
+the	HUM
+money	NUM
+they	NUM
+use	NUM
+in	NUM
+Zambia	ENTY
+?	ENTY
+
+How	NUM
+many	NUM
+feet	NUM
+in	NUM
+a	NUM
+mile	NUM
+?	NUM
+
+What	ENTY
+is	ENTY
+the	ENTY
+birthstone	ENTY
+of	ENTY
+October	ENTY
+?	ENTY
+
+What	ENTY
+is	DESC
+e-coli	DESC
+?	DESC
